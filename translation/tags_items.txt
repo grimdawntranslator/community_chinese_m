@@ -1,4 +1,4 @@
-#装备显示组合：前缀{%_s0}/品质{%_s1}/类型{%_s2}/名称{%_s3}/后缀{%_s4}汉化时需要调整顺序
+﻿#装备显示组合：前缀{%_s0}/品质{%_s1}/类型{%_s2}/名称{%_s3}/后缀{%_s4}汉化时需要调整顺序
 
 tagItemNameOrder={%_s0}{%_s1}{%_s2}{%_s3}{%_s4}
 tagItemNameAndStack={%s0} ({%d1})
@@ -3918,7 +3918,7 @@ tagPrefixB010_Sh_A=^g腐蚀·
 tagPrefixB011_Sh_A=^g破坏者·
 tagPrefixB012_Sh_A=^g火墙·
 tagPrefixB013_Sh_A=^g冰川·
-tagPrefixB014_Sh_A=^g雷击★·
+tagPrefixB014_Sh_A=^g雷击·
 tagPrefixB015_Sh_A=^g腐蚀·
 tagPrefixB016_Sh_A=^g石肤★·
 tagPrefixB017_Sh_A=^g邪术·

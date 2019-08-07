@@ -1,4 +1,4 @@
-tagSkillClassName07=审判官
+﻿tagSkillClassName07=审判官
 tagSkillClassName08=死灵法师
 
 tagSkillClassName0107=战术家^T（士兵+审判）
@@ -77,7 +77,7 @@ tagGDX1Class07SkillName04E=污染之焰
 tagGDX1Class07SkillDescription04E=罕见的是，一些审判官已经堕落并信奉他们曾经对抗的力量。将虚无之力注入伊格纳法之石，使其释放出一道污染之焰。
 
 tagGDX1Class07SkillName05A=^g<^F审判^g>^c哈加拉德符文
-tagGDX1Class07SkillDescription05A=哈格拉符文最初只是收藏于光明会宝库的藏品之一，但在消灭了给帝国首都带来巨大压力的神秘活动之后，它成为了第一个被批准研究的圣物，并被光明会复制用以切断敌人的逃生路线。^o哈加拉德符文需要1.5秒部署时间并受到玩家伤害加成的影响，中心总体伤害减少30%。
+tagGDX1Class07SkillDescription05A=哈格拉符文最初只是收藏于光明会宝库的藏品之一，但在消灭了给帝国首都带来巨大压力的神秘活动之后，它成为了第一个被批准研究的圣物，并被光明会复制用以切断敌人的逃生路线。^o哈加拉德符文需要1.5秒部署时间并受到玩家伤害加成的影响，中心总体伤害减少25%。
 tagGDX1Class07SkillName05A_PetSkill=寒冷冲击
 tagGDX1Class07SkillName05B=^g<^F审判^g>^c凛冽
 tagGDX1Class07SkillDescription05B=哈加拉德符文散发的寒冷能量能使敌人思维迟缓更利于猎杀。
@@ -359,7 +359,7 @@ tagGDX1ItemSkillD128Name=角斗士的毅力
 tagGDX1ItemSkillD128Desc=坚持光荣的战斗。^o这是一项双手近战武器和双手远程武器被动加成。
 
 tagGDX1ItemSkillD129Name=奸诈的手段
-tagGDX1ItemSkillD129Desc=为了胜利不择手段。^o这是一个双持近战武器或双持远程武器被动加成，同时开启双持武器特效。
+tagGDX1ItemSkillD129Desc=为了胜利不择手段。^o这是一个远程武器被动加成。
 
 tagGDX1ItemSkillD130Name=岩浆球
 tagGDX1ItemSkillD130Desc=投掷纯火飞弹，只要轻轻一碰就会爆裂。
@@ -520,6 +520,9 @@ tagGDX1ItemSkillD181Desc=召唤纳扎染受折磨的灵魂来猛击敌人，将�
 
 tagGDX1ItemSkillD182Name=寒舌标记
 tagGDX1ItemSkillD182Desc=寒舌的标记以在政治精英中间散播冲突和混乱而闻名。将它对敌人施放时，敌人会充满不安，感到受困。
+
+tagGDX1ItemSkillD183Name=苦痛灵魂之井
+tagGDX1ItemSkillD183Desc=撕开通往彼岸的裂隙，释放出苦痛灵魂之井，并撕碎任何胆敢接近的敌人。
 
 tagGDX1w=GrimDawn/images/evil
 

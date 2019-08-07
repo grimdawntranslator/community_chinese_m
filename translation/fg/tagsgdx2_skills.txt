@@ -1,4 +1,4 @@
-tagSkillClassName09=守誓者
+﻿tagSkillClassName09=守誓者
 
 tagSkillClassName0109=战争领主^T（士兵+守誓）
 tagSkillClassName0209=破坏盾卫^T（爆破+守誓）
@@ -67,7 +67,7 @@ tagGDX2Class09SkillDescription06B=为了毫不犹豫的消灭异教徒，守誓�
 tagGDX2Class09SkillName07A=^g<^F守誓^g>^c清算之眼
 tagGDX2Class09SkillDescription07A=当第一批守誓者仰望天谷，目睹了至高神之光的惊人力量后，他们试图复制它的光辉和力量。他们祈祷和训练的巅峰是清算之眼，这是一种毁灭性的战斗技艺，守誓者只需将注意力集中于攻击，就可以在火光旋风中迅速撕开敌人的防线。需要近战武器。^o攻速为100%时，清算之眼每0.16s造成伤害并消耗能量。
 tagGDX2Class09SkillName07B=^g<^F守誓^g>^c魂火
-tagGDX2Class09SkillDescription07B=正义之火在守誓者的灵魂中燃烧，当施放清算之眼时，光芒会转变成向外盘旋的物理力量，穿透松懈的敌人。^o独立而外攻击，不受作用在清算之眼本体的伤害转化变异影响。
+tagGDX2Class09SkillDescription07B=正义之火在守誓者的灵魂中燃烧，当施放清算之眼时，光芒会转变成向外盘旋的物理力量，穿透松懈的敌人。^o独立额外攻击，不受作用在清算之眼本体的伤害转化变异影响。
 
 tagGDX2Class09SkillName08A=^g<^F守誓^g>^c召唤至高神守护者
 tagGDX1Class09SkillTracker08A=已召唤守护者数量
@@ -247,7 +247,7 @@ tagGDX2ItemSkillD241Name=刺骨寒风
 tagGDX2ItemSkillD241Desc=从你身上爆发出一阵刺骨寒风，使附近的敌人胆寒。
 
 tagGDX2ItemSkillD242Name=沙魔刀刃
-tagGDX2ItemSkillD242Desc=沙漠的刀刃携带着腐蚀性的撕咬， 在模糊的钢铁中逼近你的敌人. ^o这是一项近战双持技能，双持近战武器激活。
+tagGDX2ItemSkillD242Desc=沙漠的刀刃携带着腐蚀性的撕咬， 在模糊的钢铁中逼近你的敌人. ^o这是一项近战双持技能，同时激活双持近战武器能力。
 
 tagGDX2ItemSkillD243Name=皮兰的火葬
 tagGDX2ItemSkillD243Desc=在目标点释放出猛烈的火焰。
@@ -257,6 +257,12 @@ tagGDX2ItemSkillD244Desc=受折磨的灵魂会侵袭你的敌人并迅速将其�
 
 tagGDX2ItemSkillD245Name=幻影之刃
 tagGDX2ItemSkillD245Desc=一把拥有意志的刀刃飞向敌人，刺穿沿途的一切。
+
+tagGDX2ItemSkillD246Name=致命的手段
+tagGDX2ItemSkillD246Desc=都给我死！^o这是近战双持与远程双持的被动加成。同时开启双持武器的能力。
+
+tagGDX2ItemSkillD247Name=塔戈之锤
+tagGDX2ItemSkillD247Desc=塔戈的天神锤会飞向你的敌人，再飞回你手中。
 
 #Component Skills
 tagGDX2CompSkillA033Name=虚空弹药
@@ -333,7 +339,7 @@ tagGDX2DevotionEffectC201Desc=寇瓦克投来的可怕目光将会在你身边�
 tagGDX2DevotionEffectC202=流沙
 tagGDX2DevotionEffectC202Desc=阿兹拉卡变化莫测的沙子可以听从你的号令，它将起伏穿梭于战场，向你的敌人释放出沙暴，最终回到你手中。
 tagGDX2DevotionEffectC203=尤戈尔的黑血
-tagGDX2DevotionEffectC203Desc=处于永恒黑暗的尤戈尔黑血会从你的伤口溢出，在战场上扩散并搜寻敌人让他们在永恒黑暗中消灭。
+tagGDX2DevotionEffectC203Desc=处于永恒黑暗的尤戈尔黑血会从你的伤口溢出，在战场上扩散并搜寻敌人让他们在永恒黑暗中消灭。^odebuff属性攻击技能。
 tagGDX2DevotionEffectC203_PetSkill=黑血
 
 

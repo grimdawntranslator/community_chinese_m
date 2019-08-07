@@ -1,4 +1,4 @@
-#Weapons
+﻿#Weapons
 tagGDX2WeaponSwordB201=^l寇瓦克的烈焰剑
 tagGDX2WeaponSwordB201_Desc="由寇瓦克授予其忠实信徒的武器，用于号令其爪牙。"
 tagGDX2WeaponSwordB202=^l寇瓦克的风暴剑
@@ -169,7 +169,7 @@ tagGDX2ShieldD201=荆棘丛生
 tagGDX2ShieldD202=坟墓之触
 tagGDX2ShieldD203=美德防御者
 tagGDX2ShieldD204=三巫神防御者
-tagGDX2ShieldD205=虚魂圆盾
+tagGDX2ShieldD205=虚魂壁垒
 
 tagGDX2ShieldF201=拜斯迈防御者
 tagGDX2ShieldF202=德里格保护者
@@ -443,6 +443,8 @@ tagGDX2WaistD204_Desc="上面有着白莲花的徽记，照料着科凡大地上
 tagGDX2WaistD205=吸血鬼
 tagGDX2WaistD206=拉辛的护腰
 tagGDX2WaistD207=穆谟之吻
+tagGDX2WaistD208=致命的手段
+tagGDX2WaistD208_Desc="传言曾经属于夜刃尼达拉，每个小瓶都充满着一种独特的毒素。有些甚至可以组合产生完全不同的结果。"
 
 tagGDX2WaistF201A=拜斯迈致命护腰
 tagGDX2WaistF201B=拜斯迈致命束腰
@@ -610,7 +612,7 @@ tagGDX2Blueprint_ArmorD210=设计图：美德凝视
 tagGDX2Blueprint_ArmorD211=设计图：哈拉的头盔
 tagGDX2Blueprint_ArmorD212=设计图：飓风面具
 tagGDX2Blueprint_ArmorD213=设计图：拉辛的护甲
-tagGDX2Blueprint_ArmorD214=设计图：剧毒领主的兜帽
+tagGDX2Blueprint_ArmorD214=设计图：枯萎领主的兜帽
 tagGDX2Blueprint_ArmorD215=设计图：高尔的华服
 tagGDX2Blueprint_ArmorD216=设计图：沙魔的面具
 tagGDX2Blueprint_ArmorD217=设计图：皮兰的面容
