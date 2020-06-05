@@ -787,7 +787,7 @@ TagQualityBrokenWeapon02=^w破碎
 TagQualityBrokenWeapon03=^w弯曲
 TagQualityBrokenArmor01=^w废弃
 TagQualityBrokenAll01=^w毁坏
-TagQualityOld=^s老式
+TagQualityOld=^w老式
 
 tagQualityWeaponMetal01=^w废铁
 tagQualityWeaponMetal02=^w生锈

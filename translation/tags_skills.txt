@@ -415,7 +415,7 @@ tagClass04SkillName06A=^g<^F夜刃^g>^c气爆 ^s(Pneumatic Burst)
 tagClass04SkillDescription06A=夜刃的一种绝密武技，从周围吸取精华和“元气”以达到短时间内速度与力量的爆发。由此产生的新陈代谢加速也会轻微治疗夜刃的身体。^o夜刃万用buff。
 tagClass04SkillName06B=^g<^F夜刃^g>^c暗影舞 ^s(Shadow Dance)
 tagClass04SkillDescription06B=针对战斗的冥想练习将使你能够在酣战之中保持心中的清明，看破敌人来袭的路线巧妙地躲避敌人的攻击。
-tagClass04SkillName06C=^g<^F夜刃^g>^c元素觉醒 ^(Elemental Awakening)
+tagClass04SkillName06C=^g<^F夜刃^g>^c元素觉醒 ^s(Elemental Awakening)
 tagClass04SkillDescription06C=夜刃宗师们能够从空气中，甚至与敌人短兵相接中汲取能量,然后施放冰冷的攻击。^obuff效果,霜燃点数伤害增加武器伤害里。
 tagClass04SkillName06D=贝尔戈斯安的呼吸 ^s(Breath of Belgothian)
 tagClass04SkillDescription06D=以夜刃的标准来说,肌肉过于发达和速度迟缓的贝尔戈斯安，他成功的一部分归功于通过对元气呼吸技巧的深刻掌握而获得的生命恢复能力与对敌能力。^o这是一项近战双持技能。同时开启双持近战武器的能力。夜刃双持近战必备。
@@ -462,7 +462,7 @@ tagClass04SkillDescription12A=吸取周围敌人的生气，以敌人流失的�
 tagClass04SkillName13D=^g<^F夜刃^g>^c无情终章
 tagClass04SkillDescription13D=有时，高效地使用毒药和抗凝血剂是一种终极武器。
 
-tagClass04SkillName14A=^g<^F夜刃^g>^阿玛拉斯塔的爆裂之刃 ^s(Amarasta's Blade Burst)
+tagClass04SkillName14A=^g<^F夜刃^g>^c阿玛拉斯塔的爆裂之刃 ^s(Amarasta's Blade Burst)
 tagClass04SkillDescription14A=暗杀大师阿玛拉斯塔，在夜刃中以她的敏捷而成为传奇，她自创了一种能够在攻击点爆发刀阵并刺穿附近敌人的致命幻影刀锋技艺。
 tagClass04SkillName14B=^g<^F夜刃^g>^c致命突袭 ^s(Lethal Assault)
 tagClass04SkillDescription14B=阿玛拉斯塔专注于进攻，在发出一波刀阵后使用她的注魔武器继续对幸存的敌人发起快速且无情的攻击来结束他们的生命。^o独立buff效果，不受作用在爆裂之刃本体的变异效果影响。
