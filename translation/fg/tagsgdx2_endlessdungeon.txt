@@ -4,20 +4,20 @@ tagGDX2MapEndlessBoss=碎界守卫的领地
 tagGDX2MapEndlessTreasure=碎裂之境的辉煌
 
 #Shattered Bosses
-tagGDX2EndlessDungeon_Boss01=典狱长克里夫，碎界守卫
-tagGDX2EndlessDungeon_Boss02=德莱厄斯·克隆莱，碎裂之魂
+tagGDX2EndlessDungeon_Boss01=碎界守卫 ~ 典狱长克里夫
+tagGDX2EndlessDungeon_Boss02=碎裂之魂 ~ 德莱厄斯·克隆利
 tagGDX2EndlessDungeon_Boss03=破碎的卡里夫
 tagGDX2EndlessDungeon_Boss03B=卡里夫之魂
-tagGDX2EndlessDungeon_Boss04=艾克特扎尔，尤戈尔的先驱
-tagGDX2EndlessDungeon_Boss05=西奥丁·莫林，碎界塑造者
+tagGDX2EndlessDungeon_Boss04=尤戈尔的先驱 ~ 艾克特扎尔
+tagGDX2EndlessDungeon_Boss05=碎界塑造者 ~ 西奥丁·莫林
 tagGDX2EndlessDungeon_Boss06=碎界管家
-tagGDX2EndlessDungeon_Boss07=卢西恩，碎界指挥官
-tagGDX2EndlessDungeon_Boss08=阿卡米尔，碎界行刑者
-tagGDX2EndlessDungeon_Boss09=沙扎尔，尤戈尔之嗣
-tagGDX2EndlessDungeon_Boss10=加尔加班，碎界之心
+tagGDX2EndlessDungeon_Boss07=碎界指挥官 ~ 卢西恩
+tagGDX2EndlessDungeon_Boss08=碎界行刑者 ~ 阿卡米尔
+tagGDX2EndlessDungeon_Boss09=尤戈尔之嗣 ~ 沙扎尔
+tagGDX2EndlessDungeon_Boss10=碎界之心 ~ 加尔加班
 tagGDX2EndlessDungeon_Boss11=碎界哨卫
 tagGDX2EndlessDungeon_Boss12=碎界放逐者
-tagGDX2EndlessDungeon_Boss13=萨拉辛，碎界之刃
+tagGDX2EndlessDungeon_Boss13=碎界之刃 ~ 萨拉辛
 tagGDX2EndlessDungeon_Boss14=碎界塑造者·辛纳斯
 tagGDX2EndlessDungeon_Boss15=碎界守门人
 tagGDX2EndlessDungeon_Boss16=饥渴表象
@@ -65,9 +65,12 @@ tagGDX2EndlessDungeon_Boss_Summon02_Skill_Desc=无尽黑暗产生的刺骨的饥
 tagGDX2EndlessDungeon_S201=完全正常的盾牌
 tagGDX2EndlessDungeon_S201_Desc="左撇子会懂的。"
 tagGDX2EndlessDungeon_S202=白骨之戟
+tagGDX2EndlessDungeon_S203=莱奥维纳斯的戒指
+tagGDX2EndlessDungeon_S203_Desc="一枚保存完好的戒指，用一种可塑性很强的陌生材料制成，看起来相当愚蠢。"
+
 
 #NPCs
-tagGDX2EndlessDungeon_NPC_Event01=玛赞，传送门守护者
+tagGDX2EndlessDungeon_NPC_Event01=传送门守护者 ~ 玛赞
 
 tagGDX2EndlessDungeon_NPC_Merchant01=乌兰纳
 tagGDX2EndlessDungeon_ StoreTitle_Merchant01=碎界商贩
@@ -81,7 +84,7 @@ tagGDX2EndlessDungeon_NPC_Smith01=伊卡洛德
 tagGDX2EndlessDungeon_StoreTitle_Smith01=被诅咒的铁匠
 tagGDX2EndlessDungeon_StoreDesc_Smith01_1={}亡者之礼
 tagGDX2EndlessDungeon_StoreDesc_Smith01_2=伊卡洛德数个世纪以来都在锻造学识上颇有天赋，被他那特别的...存在形态所支持着。
-tagGDX2EndlessDungeon_StoreDesc_Smith01_3=
+tagGDX2EndlessDungeon_StoreDesc_Smith01_3= 
 tagGDX2EndlessDungeon_StoreDesc_Smith01_4=制作武器，护甲或饰品，并向其中灌注下列特性之一：
 
 tagGDX2EndlessDungeon_NPC_Smuggler01=阿格纳斯
@@ -93,7 +96,7 @@ tagGDX2EndlessDungeon_StoreTitle_Reallocator01=灵魂向导
 tagGDX2EndlessDungeon_NPC_Inventor01=拉杜纳
 tagGDX2EndlessDungeon_StoreTitle_Inventor01=碎界发明家
 
-tagGDX2EndlessDungeon_NPC_PowerUps01=卡拉加德拉，沙漠之嗣
+tagGDX2EndlessDungeon_NPC_PowerUps01=沙漠之嗣 ~ 卡拉加德拉
 
 #Shrines
 tagGDX2EndlessDungeon_Shrine01=阿兹拉卡的神龛
@@ -126,8 +129,8 @@ tagGDX2EndlessDungeon_Shrine05Skill_Desc=你已经与死神做了笔交易，以
 tagGDX2EndlessDungeon_Powerup01=碎裂之境的本质
 tagGDX2EndlessDungeon_Powerup01_Desc=你已经吸收了一个碎裂之境的灵魂，它将短时间内内大幅提升你的的力量和抗性。^o这个效果最多可以叠加5次，越高层数的碎界可以叠加越多的效果。
 tagGDX2EndlessDungeon_Powerup02_Desc=你已经吸收了一个碎裂之境的灵魂，它将短时间内内大幅提升你的的力量和抗性。^o这个效果最多可以叠加8次，越高层数的碎界可以叠加越多的效果。
-tagGDX2EndlessDungeon_Powerup03_Desc=你已经吸收了一个碎裂之境的灵魂，它将短时间内内大幅提升你的的力量和抗性。^o这个效果最多可以叠加10次，越高层数的碎界可以叠加越多的效果。
-tagGDX2EndlessDungeon_Powerup04_Desc=你已经吸收了一个碎裂之境的灵魂，它将短时间内内大幅提升你的的力量和抗性。^o这个效果最多可以叠加12次，越高层数的碎界可以叠加越多的效果。
+tagGDX2EndlessDungeon_Powerup03_Desc=你已经吸收了一个碎裂之境的灵魂，它将短时间内内大幅提升你的的力量和抗性。^o这个效果最多可以叠加9次，越高层数的碎界可以叠加越多的效果。
+tagGDX2EndlessDungeon_Powerup04_Desc=你已经吸收了一个碎裂之境的灵魂，它将短时间内内大幅提升你的的力量和抗性。^o这个效果最多可以叠加10次，越高层数的碎界可以叠加越多的效果。
 
 
 #Items
@@ -152,11 +155,15 @@ tagGDX2EndlessDungeon_Key_04=亵渎引路石
 tagGDX2EndlessDungeon_Key_04_Desc=亵渎引路石上涂满了被污染的鲜血。它能使玛赞打开通往第50碎界至第60碎界的道路。
 tagGDX2EndlessDungeon_Key_04_Blueprint=设计图：亵渎引路石
 
-tagGDX2EndlessDungeon_Key_05=上神引路石
-tagGDX2EndlessDungeon_Key_05_Desc=上神引路石完全恢复了它的神圣力量。它能使玛赞打开通往第65碎界至第75碎界的道路。
-tagGDX2EndlessDungeon_Key_05_Blueprint=设计图：上神引路石
+tagGDX2EndlessDungeon_Key_05=天神引路石
+tagGDX2EndlessDungeon_Key_05_Desc=天神引路石完全恢复了它的神圣力量。它能使玛赞打开通往第65碎界至第75碎界的道路。^n^n胆小的人不应该使用这种引路石。
+tagGDX2EndlessDungeon_Key_05_Blueprint=设计图：天神引路石
 
-tagGDX2ItemTest=人形凝视者小姐♀
+tagGDX2EndlessDungeon_Key_06=死亡引路石
+tagGDX2EndlessDungeon_Key_06_Desc=被死亡力量污染了的引路石，现在打开一条危险莫测的道路，在那里等待你的只有征服的荣耀。^n^n它能使玛赞打开通往第80碎界及之后的道路。^n^n胆小的人不应该使用这种引路石。
+tagGDX2EndlessDungeon_Key_06_Blueprint=设计图：死亡引路石
+
+tagGDX2ItemTest=人形凝视者♀
 tagGDX2ItemTestDesc="一个成就不凡的家伙把凝视者套在了身上。"
 tagGDX2ItemTest2=温和有趣的盒子
 tagGDX2ItemTest2Desc="受现实生活的启发"
@@ -215,3 +222,4 @@ tagGDX2Item_ChestQ01=永恒珍藏
 
 tagGDX2Item_SpecialChestA01=碎裂之境的秘密
 tagGDX2Item_SpecialChestA02=碎裂之境的礼物
+
