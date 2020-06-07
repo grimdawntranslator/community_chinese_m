@@ -329,9 +329,9 @@ tagClass03SkillName11A=^g<^F神秘^g>^c德里格的邪眼 ^s(Dreeg's Evil Eye)
 tagClass03SkillDescription11A=召唤隐秘国度的守护者德里格所拥有的无数只邪眼中的一只，它将迅速飞向敌人然后引爆自身。^o邪眼本体和进阶技能的爆炸范围是独立的，并不叠加。
 tagClass03SkillName11B=^g<^F神秘^g>^c血爆 ^s(Blood Busrt)
 tagClass03SkillDescription11B=神秘的邪眼在命中敌人时爆炸，向周围的敌人喷溅毒血。
-tagClass03SkillName11C=^g<^F神秘^g>^c恐惧凝视 s^(Terrifying Gaze)
+tagClass03SkillName11C=^g<^F神秘^g>^c恐惧凝视 ^s(Terrifying Gaze)
 tagClass03SkillDescription11C=不朽又可畏的巫神德里格，面对他那令人恐惧的凝视,敌人要么惊恐地呆在原地，要么直接逃之夭夭。
-tagClass03SkillName11D=^g<^F神秘^g>^c邪物喷涌 s^(Vile Eruption)
+tagClass03SkillName11D=^g<^F神秘^g>^c邪物喷涌 ^s(Vile Eruption)
 tagClass03SkillDescription11D=邪眼撞上敌人时会炸出腐败的碎块，不幸身处爆炸范围内的敌人会遭受更深的痛楚。
 tagClass03SkillName11E=聚能凝视 s^(Focused Gaze) 
 tagClass03SkillDescription11E=将德里格的邪恶力量引导至每只邪眼之中，使邪眼发生更为猛烈的爆炸，造成更多的伤害，但同时会延长施放邪眼的冷却时间。
@@ -2361,67 +2361,67 @@ tagRelicSkillC014Desc=一片枯萎之云环绕周身，产生能感染任何接�
 tagRelicSkillC015Name=先祖的羁绊
 tagRelicSkillC015Desc=你的先祖与你的仆从们之间的联系释放了他们以往不可能拥有的潜力。^o这项技能必须保持开启以持续生效。
 
-tagRelicSkillD001Name=守护
+tagRelicSkillD001Name=守护^s(Salvation)
 tagRelicSkillD001Desc=用圣光灌注自身并吸收接下来的攻击，使你免受进一步的伤害。
 
-tagRelicSkillD002Name=诅咒
+tagRelicSkillD002Name=诅咒^s(Malediction)
 tagRelicSkillD002Desc=用腐蚀毒药和致命疾病灌注你的武器，每一击都能感染你的敌人。^o这项技能必须保持开启以持续生效。
 
-tagRelicSkillD003Name=召唤复仇女神
+tagRelicSkillD003Name=召唤复仇女神^s(Summun Nemesis)
 tagRelicSkillD003Desc=召唤复仇女神~暗影半神以及暗夜狩猎之王。^o你在同一时间只能召唤一个复仇女神的化身。复仇女神受到玩家伤害影响.
 
-tagRelicSkillD004Name=堡垒
+tagRelicSkillD004Name=堡垒^s(Citadel)
 tagRelicSkillD004Desc=增强你和队友的防御，使你们成为移动的堡垒。^o这项技能必须保持开启以持续生效。
 
-tagRelicSkillD005Name=风暴召唤者光环
+tagRelicSkillD005Name=风暴召唤者光环^s(Stormcaller Aura)
 tagRelicSkillD005Desc=将雷电风暴之力赋予你和你的队友。^o此技能需要开启以保持生效。
 
-tagRelicSkillD006Name=清算
+tagRelicSkillD006Name=清算^s(Reckoning)
 tagRelicSkillD006Desc=对攻击你的人发动清算，使他们更易受到反击伤害。
 
-tagRelicSkillD007Name=天灾打击
+tagRelicSkillD007Name=天灾打击^s(Scourge Strike)
 tagRelicSkillD007Desc=对你的敌人进行令人胆寒的打击，以死寒之力削弱他们的信念，并为你返还部分生命力。^o需要一把近战武器。
 
-tagRelicSkillD008Name=火焰冲撞
+tagRelicSkillD008Name=火焰冲撞^s(Pyroclasm)
 tagRelicSkillD008Desc=从你身上爆发出一道形成毁灭之径的狂野烈焰。
 
-tagRelicSkillD009Name=骨疽
+tagRelicSkillD009Name=骨疽^s(necrosis)
 tagRelicSkillD009Desc=对你的敌人发动虚弱诅咒，使他们肉体腐坏意识缓慢。
 
-tagRelicSkillD010Name=阿格里维斯的怨恨
+tagRelicSkillD010Name=阿格里维斯的怨恨^s(Agrivix's Malice )
 tagRelicSkillD010Desc=利用阿格里维斯的愤怒，在你周围制造一阵虚化和混乱能量的漩涡。^o一次发动1道环形投射物。
 
-tagRelicSkillD011Name=遗忘
+tagRelicSkillD011Name=遗忘^s(Oblivion)
 tagRelicSkillD011Desc=对你的敌人发动混沌的纯粹毁灭之力。
 
-tagRelicSkillD012Name=杀戮
+tagRelicSkillD012Name=杀戮^s(Carnage)
 tagRelicSkillD012Desc=你造成的杀戮与毁坏越多，就会变得越强力。^o这是一项近战双持技能。
 
-tagRelicSkillD013Name=陨石
+tagRelicSkillD013Name=陨石^s(Meteor)
 tagRelicSkillD013Desc=穿透幽冥与人间的脆弱屏障，召唤大规模的燃烧陨石砸向你的敌人。
 
-tagRelicSkillD014Name=复仇
+tagRelicSkillD014Name=复仇^s(Vengeance)
 tagRelicSkillD014Desc=释放你所承受的攻击并转化为毁灭性的冲击波。
 
-tagRelicSkillD015Name=虫群之心
+tagRelicSkillD015Name=虫群之心^s(Swarm Mind)
 tagRelicSkillD015Desc=你在无尽抗争中有节奏的步调将召唤虫群来协助你。^o虫群会受到战宠加成的影响。
 
-tagRelicSkillD016Name=大屠杀
+tagRelicSkillD016Name=大屠杀^s(Decimation)
 tagRelicSkillD016Desc=对敢于攻击所选仆从之人释放索拉尔的愤怒。
 
-tagRelicSkillD017Name=德里格的痛苦尖刺
+tagRelicSkillD017Name=德里格的痛苦尖刺^s(Dreeg's Affliction Spines)
 tagRelicSkillD017Desc=向毫无戒备的敌人释放一阵德里格的剧毒尖刺，用这位伟大神灵的血液感染他们。
 
-tagRelicSkillD018Name=狂热献身
+tagRelicSkillD018Name=狂热献身^s(Frenzied Devotion)
 tagRelicSkillD018Desc=见到他们的主人受到伤害，你的仆从就会陷入邪恶的疯狂之中。
 
-tagRelicSkillD019Name=奥莱隆之怒
+tagRelicSkillD019Name=奥莱隆之怒^s(Oleron Wrath)
 tagRelicSkillD019Desc=掌握战争之神的血液之力，向附近敌人释放他的愤怒。
 
-tagRelicSkillD020Name=曼海尔的壁垒
+tagRelicSkillD020Name=曼海尔的壁垒^s(Menhir's Bastion)
 tagRelicSkillD020Desc=掌握曼海尔的守护之灵，为你和你的队友抵挡一定伤害。
 
-tagRelicSkillD021Name=元素混乱
+tagRelicSkillD021Name=元素失衡^s(Elemental Imbanance)
 tagRelicSkillD021Desc=你冒着施法中断的风险，谨慎地平衡着元素力量。释放一股让你的敌人后悔靠近你的力量。
 
 
@@ -2509,6 +2509,8 @@ tagQuestSkill_A01=凯蒙的祝福
 tagQuestSkill_A01Desc=你的武器加持了至高神的圣火。
 tagQuestSkill_A02=死亡守夜人的增益
 tagQuestSkill_A02Desc=你的武器受到了教团的强化。
+tagQuestSkill_A03=安娜斯特瑞娅的标记
+tagQuestSkill_A03Desc=你被放逐者标记了。
 
 
 #SkillsGeneral

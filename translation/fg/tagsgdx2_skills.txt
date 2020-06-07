@@ -317,28 +317,28 @@ tagGDX2CompSkillA033Desc=赋予你的攻击带有虚空的力量。^o这项技�
 
 
 #Relic Skills
-tagGDX1RelicSkillD106Name=灼热脉冲
+tagGDX1RelicSkillD106Name=灼热脉冲^(Blazing Eruption)
 tagGDX1RelicSkillD106Desc=想你的目标释放一阵至高神的神圣愤怒，将它与那些愚蠢的靠的太近的敌人烧成灰烬。
 
 tagGDX2RelicSkillC201Name=爆炎
 tagGDX2RelicSkillC201Desc=当你攻击时释放一阵地狱烈焰，会在你释放的地方把那些蠢货们焚烧殆尽。
 
-tagGDX2RelicSkillD201Name=邪术研习
+tagGDX2RelicSkillD201Name=邪术研习^s(Eldritch Ruminations)
 tagGDX2RelicSkillD201Desc=探索邪术领域的隐藏秘密，三巫神的赠与将会增强你与盟友的攻击力。^o这项技能必须保持开启以持续生效。
 
-tagGDX2RelicSkillD202Name=维尔爆发
+tagGDX2RelicSkillD202Name=维尔倾泻^s(Vire's Cascade)
 tagGDX2RelicSkillD202Desc=猛击地面，并且使你面前的地面呈现扇形的破碎区域。
 
-tagGDX2RelicSkillD203Name=沙暴
-tagGDX2RelicSkillD203Desc=像你的敌人释放沙暴。^o沙暴受到人物伤害的加成。
+tagGDX2RelicSkillD203Name=沙魔^s(Sand Devil)
+tagGDX2RelicSkillD203Desc=像你的敌人释放沙旋风。^o沙暴受到人物伤害的加成。
 
-tagGDX2RelicSkillD204Name=饥渴之触
+tagGDX2RelicSkillD204Name=饥渴之触^s(Voracious Reach)
 tagGDX2RelicSkillD204Desc=把你的愤怒集中在代表你饥渴的旋风中，只要你持续施法就会消耗你周围人的鲜血。 ^o需要一把近战武器。攻速为100%时，饥渴之触每0.16s造成伤害并消耗能量。
 
-tagGDX2RelicSkillD205Name=宁静
+tagGDX2RelicSkillD205Name=宁静^s(Serenity)
 tagGDX2RelicSkillD205Desc=宁静会在艰难时刻把你从伤痛中解救出来。
 
-tagGDX2RelicSkillD206Name=宽恕
+tagGDX2RelicSkillD206Name=宽恕^s(Absolution)
 tagGDX2RelicSkillD206Desc=你总是直面每一次攻击，如果有这个必要你将使用武力手段来宽恕你的敌人。^o需要装备盾牌。
 
 
