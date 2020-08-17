@@ -153,7 +153,7 @@ tagCharHealIncreaseModifierR={^E}治疗效果提高 {^H}{%.0f0}%-{%.0f1}%
 #Char Stats Tab 2
 
 #Character
-tagCharStatsHealIncrease=治疗提高
+tagCharStatsHealIncrease=治疗效果提高
 tagCharStatsHealIncreaseInfo=所有治疗效果的百分比加成，包括药水和攻击伤害转化为生命值。不增加生命恢复速度。
 tagCharStatsOathkeeperSkillsBonus=守誓者技能加成
 tagCharStatsOathkeeperSkillsBonusInfo=所有守誓者专精中已习得技能的额外加成。
