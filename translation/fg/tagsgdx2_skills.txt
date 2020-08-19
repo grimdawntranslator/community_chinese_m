@@ -3,7 +3,7 @@ tagSkillClassName09=守誓者
 tagSkillClassName0109=战争领主^T(士兵+守誓)
 tagSkillClassName0209=破盾者^T(爆破+守誓)
 tagSkillClassName0309=哨兵^T(神秘+守誓)
-tagSkillClassName0409=[ms]苦头陀^T(夜刃+守誓)[fs]苦师太^T(夜刃+守誓)
+tagSkillClassName0409=狂舞者^T(夜刃+守誓)
 tagSkillClassName0509=圣殿骑士^T(奥术+守誓)
 tagSkillClassName0609=执政官^T(萨满+守誓)
 tagSkillClassName0709=帕拉丁^T(审判+守誓)
@@ -18,81 +18,81 @@ tagSkillClassDescription09=无论是出身于曼海尔神庙，抑或者将自�
 tagGDX2Class09SkillName00A=守誓者
 tagGDX2Class09SkillDescription00A=天神意志的狂热化身。
 
-tagGDX2Class09SkillName01A=^g<^F守誓^g>^c曼海尔神盾 ^s(Aegis of Menhir)
+tagGDX2Class09SkillName01A=^g<^F守誓^g>^c曼海尔神盾 ^s(Aegis of Menhir){^-}
 tagGDX2Class09SkillDescription01A=在曼海尔的祝福下，大地的力量涌入全身，向目标投掷魔盾，会震慑并迷惑敌人，再飞回你手中。^o需要装备盾牌。武器伤害为盾牌伤害。
-tagGDX2Class09SkillName01B=^g<^F守誓^g>^c复仇之盾 ^s(Avenging Shield)
+tagGDX2Class09SkillName01B=^g<^F守誓^g>^c复仇之盾 ^s(Avenging Shield){^-}
 tagGDX2Class09SkillDescription01B=带着天神力量和震波的曼海尔神盾，会从初始目标开始弹射打击附近的敌人，再飞回你手中。
-tagGDX2Class09SkillName01C=^g<^F守誓^g>^c报复 ^s(Reprisal)
+tagGDX2Class09SkillName01C=^g<^F守誓^g>^c报复 ^s(Reprisal){^-}
 tagGDX2Class09SkillDescription01C=坚持不懈地训练曼海尔神盾，使其成为你的复仇手段，并突破凡人身躯的极限。
-tagGDX2Class09SkillName01D=荆棘庇护 ^s(Aegis of Thorns)
+tagGDX2Class09SkillName01D=荆棘庇护 ^s(Aegis of Thorns){^-}
 tagGDX2Class09SkillDescription01D=灌注了伟大守护者的苦痛折磨，曼海尔神盾成为了德里格意志的延伸，他的棘刺上不断滴落着毒血。
 
-tagGDX2Class09SkillName02A=^g<^F守誓^g>^c正义狂热 ^s(Righteous Fervor)
+tagGDX2Class09SkillName02A=^g<^F守誓^g>^c正义狂热 ^s(Righteous Fervor){^-}
 tagGDX2Class09SkillDescription02A=守誓者在嘴上默念祈祷，使心中充满正义。当作为默认武器攻击时，正义狂热提升你每一次攻击的强度。^o提升充能等级可以提高加成效果。平砍类技能。
-tagGDX2Class09SkillName02B=^g<^F守誓^g>^c圣化 ^s(Consecration)
+tagGDX2Class09SkillName02B=^g<^F守誓^g>^c圣化 ^s(Consecration){^-}
 tagGDX2Class09SkillDescription02B=你的身髓在天神恩典中变得神圣化，使你获得了不可动摇的决心。
-tagGDX2Class09SkillName02C=^g<^F守誓^g>^c惩戒 ^s(Retribution)
+tagGDX2Class09SkillName02C=^g<^F守誓^g>^c惩戒 ^s(Retribution){^-}
 tagGDX2Class09SkillDescription02C=你的专注力坚定不移，使你每次受到攻击都以千倍奉还。
-tagGDX2Class09SkillName02D=德里格的斥责 ^s(Dreeg's Reproach)
+tagGDX2Class09SkillName02D=德里格的斥责 ^s(Dreeg's Reproach){^-}
 tagGDX2Class09SkillDescription02D=你的祈祷变得扭曲而黑暗，你的热忱已被德里格那疯狂的耳语所驱使。
 
-tagGDX2Class09SkillName03A=^g<^F守誓^g>^c审判 ^s(Judgment)
+tagGDX2Class09SkillName03A=^g<^F守誓^g>^c审判 ^s(Judgment){^-}
 tagGDX2Class09SkillDescription03A=守誓者是天神审判的狂热执行者。在他们的意志之下，异教徒敌人都将得到最终审判的制裁。^o抵抗击倒的怪物不能被吸引。
-tagGDX2Class09SkillName03B=^g<^F守誓^g>^c粉碎裁决 ^s(Crushing Verdict)
+tagGDX2Class09SkillName03B=^g<^F守誓^g>^c粉碎裁决 ^s(Crushing Verdict){^-}
 tagGDX2Class09SkillDescription03B=受到审判的敌人意志将崩溃，他们的命运已经注定。
-tagGDX2Class09SkillName03C=^g<^F守誓^g>^c愤怒之心 ^s(Heart of Wrath)
+tagGDX2Class09SkillName03C=^g<^F守誓^g>^c愤怒之心 ^s(Heart of Wrath){^-}
 tagGDX2Class09SkillDescription03C=执行审判将使你内心充满灼热的意志，并灼烧附近的敌人。
 
-tagGDX2Class09SkillName04A=^g<^F守誓^g>^c维尔之力 ^s(Vire's Might)
+tagGDX2Class09SkillName04A=^g<^F守誓^g>^c维尔之力 ^s(Vire's Might){^-}
 tagGDX2Class09SkillDescription04A=最早记录于安克维亚文献中，维尔神庙的忠诚奉献者阿加沃德不惧死亡冲锋陷阵，撕开敌军的防线，使他们暴露在箭雨的猛攻之下，自己却毫发无伤。从此面临绝境之时，维尔之力成为了守誓者无论是肉体还是精神方面优势的绝佳体现。^o当装备盾牌时，盾牌的伤害也会被计算在内。不需要指定目标也可以发动。
-tagGDX2Class09SkillName04B=^g<^F守誓^g>^c火山步伐 ^s(Volcanic Stride)
+tagGDX2Class09SkillName04B=^g<^F守誓^g>^c火山步伐 ^s(Volcanic Stride){^-}
 tagGDX2Class09SkillDescription04B=心怀烈火向维尔默念祷言，使你在冲锋路径上留下火山之焰焚烧敌人。
-tagGDX2Class09SkillName04C=^g<^F守誓^g>^c地质位移 ^s(Tectonic Shift)
+tagGDX2Class09SkillName04C=^g<^F守誓^g>^c地质位移 ^s(Tectonic Shift){^-}
 tagGDX2Class09SkillDescription04C=大地之力使你的冲锋距离增加，并造成更多持续性伤害。
-tagGDX2Class09SkillName04D=火山之力 ^s(Volcanic Might)
+tagGDX2Class09SkillName04D=火山之力 ^s(Volcanic Might){^-}
 tagGDX2Class09SkillDescription04D=被守誓者的盾牌击中时，维尔之力的复仇怒火会击倒意志不坚的敌人。^o需要装备盾牌或双手近战武器。
 
-tagGDX2Class09SkillName05A=^g<^F守誓^g>^c美德降临 ^s(Presence of Virtue)
+tagGDX2Class09SkillName05A=^g<^F守誓^g>^c美德降临 ^s(Presence of Virtue){^-}
 tagGDX2Class09SkillDescription05A=守誓者是美德与信仰的典范，是鼓舞盟友的瑰宝。那些站在他们身旁的人会不禁激发出英勇卓绝的本领。^o这项技能必须保持开启以持续生效。
-tagGDX2Class09SkillName05B=^g<^F守誓^g>^c庇护 ^s(Haven)
+tagGDX2Class09SkillName05B=^g<^F守誓^g>^c庇护 ^s(Haven){^-}
 tagGDX2Class09SkillDescription05B=守誓者的存在是无情战乱中提供慰藉的庇护之所。
-tagGDX2Class09SkillName05C=^g<^F守誓^g>^c斥责 ^s(Rebuke)
+tagGDX2Class09SkillName05C=^g<^F守誓^g>^c斥责 ^s(Rebuke){^-}
 tagGDX2Class09SkillDescription05C=正义的愤怒在守誓者及其盟友的心中熊熊燃起。
 
-tagGDX2Class09SkillName06A=^g<^F守誓^g>^c升华 ^s(Ascension)
+tagGDX2Class09SkillName06A=^g<^F守誓^g>^c升华 ^s(Ascension){^-}
 tagGDX2Class09SkillDescription06A=通过深度沉思和坚定信念，守誓者可短暂地使神灵与自己同在。这道指引之光可以在艰难时刻提供慰藉，感受神的真实力量。
-tagGDX2Class09SkillName06B=^g<^F守誓^g>^c目标明确 ^s(Clarity of Purpose)
+tagGDX2Class09SkillName06B=^g<^F守誓^g>^c目标明确 ^s(Clarity of Purpose){^-}
 tagGDX2Class09SkillDescription06B=为了毫不犹豫的消灭异教徒，守誓者成为了天神愤怒的化身。
 
-tagGDX2Class09SkillName07A=^g<^F守誓^g>^c清算之眼 ^s(Eye of Reckoning)
+tagGDX2Class09SkillName07A=^g<^F守誓^g>^c清算之眼 ^s(Eye of Reckoning){^-}
 tagGDX2Class09SkillDescription07A=当第一批守誓者仰望天谷，目睹了至高神之光的惊人力量后，他们试图复制它的光辉和力量。他们祈祷和训练的巅峰是清算之眼，这是一种毁灭性的战斗技艺，守誓者只需将注意力集中于攻击，就可以在火光旋风中迅速撕开敌人的防线。需要近战武器。^o攻速为100%时，清算之眼每0.16秒造成伤害并消耗能量。
-tagGDX2Class09SkillName07B=^g<^F守誓^g>^c魂火 ^s(Soulfire)
+tagGDX2Class09SkillName07B=^g<^F守誓^g>^c魂火 ^s(Soulfire){^-}
 tagGDX2Class09SkillDescription07B=正义之火在守誓者的灵魂中燃烧，当施放清算之眼时，光芒会转变成向外盘旋的物理力量，穿透松懈的敌人。^o独立额外攻击，不受作用在清算之眼本体的伤害转化变异影响。
 
-tagGDX2Class09SkillName08A=^g<^F守誓^g>^c召唤至高神守护者 ^s(Summon Guardian of Empyrion)
+tagGDX2Class09SkillName08A=^g<^F守誓^g>^c召唤至高神守护者 ^s(Summon Guardian of Empyrion){^-}
 tagGDX1Class09SkillTracker08A=已召唤守护者数量
 tagGDX2Class09SkillDescription08A=召唤至高之神的忠诚仆从，执行天神审判，劈斩敌人。^o天界守护者会受到玩家伤害加成的影响。
-tagGDX2Class09SkillName08B=^g<^F守誓^g>^c天神化身 ^s(Celestial Presence)
+tagGDX2Class09SkillName08B=^g<^F守誓^g>^c天神化身 ^s(Celestial Presence){^-}
 tagGDX2Class09SkillDescription08B=守护者的出现会灼烧异教徒们的灵魂。
-tagGDX2Class09SkillName08C=德里格之嗣 ^s(Scion of Dreeg)
+tagGDX2Class09SkillName08C=德里格之嗣 ^s(Scion of Dreeg){^-}
 tagGDX2Class09SkillDescription08C=被德里格的凝视所污染，天神守护者成为了酸腐的传承者，他现在效忠于曾经对立的神明。
-tagGDX2Class09SkillName08A_PetSkillA=至高神之斩 ^s(Empyrion's Cleave)
-tagGDX2Class09SkillName08A_PetSkillB=德里格之斩 ^s(Dreeg's Cleave)
+tagGDX2Class09SkillName08A_PetSkillA=至高神之斩 ^s(Empyrion's Cleave){^-}
+tagGDX2Class09SkillName08A_PetSkillB=德里格之斩 ^s(Dreeg's Cleave){^-}
 
-tagGDX2Class09SkillName09A=^g<^F守誓^g>^c三巫神之路 ^s(Path of the Three)
+tagGDX2Class09SkillName09A=^g<^F守誓^g>^c三巫神之路 ^s(Path of the Three){^-}
 tagGDX2Class09SkillDescription09A=并不是所有守誓者都宣誓效忠于守护伊露兰帝国的神明。他们中的一些人献身于三巫神，渴望能获取一部分他们的恐怖力量。这些守誓者认为自己走上的是正道，没有被失去人性光辉的空虚承诺所蒙蔽。^o这项技能必须保持开启以持续生效。
 
-tagGDX2Class09SkillName10A=^g<^F守誓^g>^c神圣使命 ^s(Divine Mandate)
+tagGDX2Class09SkillName10A=^g<^F守誓^g>^c神圣使命 ^s(Divine Mandate){^-}
 tagGDX2Class09SkillDescription10A=无论是以至高神之名举起盾牌，还是作为天神院旗帜下的一员服役，在队伍中崛起的守誓者都被认为是神圣意志和天罚的先驱。^o这项技能必须保持开启以持续生效。
 
-tagGDX2Class09SkillName11A=^g<^F守誓^g>^c护卫 ^s(Safeguard)
+tagGDX2Class09SkillName11A=^g<^F守誓^g>^c护卫 ^s(Safeguard){^-}
 tagGDX2Class09SkillDescription11A=在久经沙场的守誓者手中，盾牌不仅是坚不可摧的防具，还是令人惧怕的武器。^o这是一项盾牌加成。
-tagGDX2Class09SkillName12A=^g<^F守誓^g>^c重击 ^s(Smite)
+tagGDX2Class09SkillName12A=^g<^F守誓^g>^c重击 ^s(Smite){^-}
 tagGDX2Class09SkillDescription12A=由守誓者正义之怒发动的精确打击，能震慑并重创敌人。经过充足的训练，这项技艺甚至可以由盾牌来发动。^o所有默认武器攻击均可激活该技能效果。当装备近战武器和盾牌时，盾牌将会同时发动打击。双持武器时，两把武器将会同时攻击。
-tagGDX2Class09SkillName13A=^g<^F守誓^g>^c粉碎猛击 ^s(Shattering Smash)
+tagGDX2Class09SkillName13A=^g<^F守誓^g>^c粉碎猛击 ^s(Shattering Smash){^-}
 tagGDX2Class09SkillDescription13A=这是持盾守誓者的超凡技艺，打击所产生的共鸣力量能穿透地面，并从初始目标发出附加的冲击波。^o这是一项盾牌战斗技艺，由默认武器攻击触发。需要一把近战武器与盾牌。
 
-tagGDX2Class09SkillName14A=^g<^F守誓^g>^c坚毅 ^s(Resilience)
+tagGDX2Class09SkillName14A=^g<^F守誓^g>^c坚毅 ^s(Resilience){^-}
 tagGDX2Class09SkillDescription14A=对于守誓者来说坚定的信仰就是最好的防御。随着生命的消逝，灵魂将会奋起抵抗进一步的伤害。
 
 
@@ -317,28 +317,28 @@ tagGDX2CompSkillA033Desc=赋予你的攻击带有虚空的力量。^o这项技�
 
 
 #Relic Skills
-tagGDX1RelicSkillD106Name=灼热脉冲^s(Blazing Eruption)
+tagGDX1RelicSkillD106Name=灼热脉冲^s(Blazing Eruption){^-}
 tagGDX1RelicSkillD106Desc=向你的目标释放一阵至高神的神圣愤怒，将它与那些愚蠢的靠的太近的敌人烧成灰烬。
 
-tagGDX2RelicSkillC201Name=爆炎^s(Flame Burst)
+tagGDX2RelicSkillC201Name=爆炎^s(Flame Burst){^-}
 tagGDX2RelicSkillC201Desc=当你攻击时释放一阵地狱烈焰，会在你释放的地方把那些蠢货们焚烧殆尽。
 
-tagGDX2RelicSkillD201Name=邪术研习^s(Eldritch Ruminations)
+tagGDX2RelicSkillD201Name=邪术研习^s(Eldritch Ruminations){^-}
 tagGDX2RelicSkillD201Desc=探索邪术领域的隐藏秘密，三巫神的赠与将会增强你与盟友的攻击力。^o这项技能必须保持开启以持续生效。
 
-tagGDX2RelicSkillD202Name=维尔爆发^s(Vire's Cascade)
+tagGDX2RelicSkillD202Name=维尔爆发^s(Vire's Cascade){^-}
 tagGDX2RelicSkillD202Desc=猛击地面，并且使你面前的地面呈现扇形的破碎区域。
 
-tagGDX2RelicSkillD203Name=沙魔^s(Sand Devil)
+tagGDX2RelicSkillD203Name=沙魔^s(Sand Devil){^-}
 tagGDX2RelicSkillD203Desc=像你的敌人释放沙暴。^o沙暴会受到玩家伤害加成的影响。
 
-tagGDX2RelicSkillD204Name=饥渴之触^s(Voracious Reach)
+tagGDX2RelicSkillD204Name=饥渴之触^s(Voracious Reach){^-}
 tagGDX2RelicSkillD204Desc=把你的愤怒集中在代表你饥渴的旋风中，只要你持续施法就会消耗你周围人的鲜血。^o需要一把近战武器。攻速为100%时，饥渴之触每0.16秒造成伤害并消耗能量。
 
-tagGDX2RelicSkillD205Name=宁静^s(Serenity)
+tagGDX2RelicSkillD205Name=宁静^s(Serenity){^-}
 tagGDX2RelicSkillD205Desc=宁静会在艰难时刻把你从伤痛中解救出来。
 
-tagGDX2RelicSkillD206Name=宽恕^s(Absolution)
+tagGDX2RelicSkillD206Name=宽恕^s(Absolution){^-}
 tagGDX2RelicSkillD206Desc=你总是直面每一次攻击，如果有这个必要你将使用武力手段来宽恕你的敌人。^o需要装备盾牌。
 
 
@@ -357,37 +357,37 @@ tagGDX2_SummonDevourerDesc=从虚空中召唤出饥渴贪魔。^o同一时间只
 
 
 #SkillDevotion
-tagGDX2Devotion_A201=夜爪 ^s(Nighttalon) {^N}{^N}^g[初级](流血，召唤，4换5)
-tagGDX2Devotion_A201Desc=夜爪是一个神出鬼没的敏捷猎手，在夜空中追捕猎物。
-tagGDX2Devotion_A202=螳螂 ^s(Mantis) {^N}{^N}^g[初级](穿刺，4换5)
-tagGDX2Devotion_A202Desc=螳螂饥渴地撕扯着天空，渴望吞噬群星。
-tagGDX2Devotion_A203=圣甲虫 ^s(Scarab) {^N}{^N}^g[初级](盾牌防御，4换5)
-tagGDX2Devotion_A203Desc=圣甲虫匆匆掠过夜空，寻觅着可供其钻洞的阿兹拉卡之沙。
-tagGDX2Devotion_A204=莲花 ^s(Lotus) {^N}{^N}^g[初级](恢复，4换5)
-tagGDX2Devotion_A204Desc=幸运的天兆。据说在光明中出生的人将会有幸福与和平的一生。
+tagGDX2Devotion_A201=夜爪 ^s(Nighttalon){^-}
+tagGDX2Devotion_A201Desc={^g}[初级] 流血，召唤，4换5{^-}{^N}{^N}夜爪是一个神出鬼没的敏捷猎手，在夜空中追捕猎物。
+tagGDX2Devotion_A202=螳螂 ^s(Mantis){^-}
+tagGDX2Devotion_A202Desc={^g}[初级] 穿刺，4换5{^-}{^N}{^N}螳螂饥渴地撕扯着天空，渴望吞噬群星。
+tagGDX2Devotion_A203=圣甲虫 ^s(Scarab){^-}
+tagGDX2Devotion_A203Desc={^g}[初级] 盾牌防御，4换5{^-}{^N}{^N}圣甲虫匆匆掠过夜空，寻觅着可供其钻洞的阿兹拉卡之沙。
+tagGDX2Devotion_A204=莲花 ^s(Lotus){^-}
+tagGDX2Devotion_A204Desc={^g}[初级] 恢复，4换5{^-}{^N}{^N}幸运的天兆。据说在光明中出生的人将会有幸福与和平的一生。
 
-tagGDX2Devotion_B201=寇瓦克的使者 ~ 奥扎德 ^s(Ulzaad, Hearld of Korvaak) {^N}{^N}^g[中级](物理系『增伤buff』，6换4)
-tagGDX2Devotion_B201Desc=一个只忠于寇瓦克的巨人，奥扎德向所有臣民宣布他的主人即将降临。在失去主人的号令后，奥扎德变得幻灭且迷茫，最终陷入疯狂和绝望之中。
-tagGDX2Devotion_B202=天国之门的守护者 ~ 海瑞恩 ^s(Hyrian, Guardian of the Celestial Gates) {^N}{^N}^g[中级](元素系『反击附加技能』，6换4)
-tagGDX2Devotion_B202Desc=海瑞恩是创建者塔戈的不朽造物，数千年前是为了守护原始神灵所居住的神之壁毯而创造。
+tagGDX2Devotion_B201=寇瓦克的使者 ~ 奥扎德 ^s(Ulzaad, Hearld of Korvaak){^-}
+tagGDX2Devotion_B201Desc={^g}[中级] 物理系『增伤buff』，6换4{^-}{^N}{^N}一个只忠于寇瓦克的巨人，奥扎德向所有臣民宣布他的主人即将降临。在失去主人的号令后，奥扎德变得幻灭且迷茫，最终陷入疯狂和绝望之中。
+tagGDX2Devotion_B202=天国之门的守护者 ~ 海瑞恩 ^s(Hyrian, Guardian of the Celestial Gates){^-}
+tagGDX2Devotion_B202Desc={^g}[中级] 元素系『反击附加技能』，6换4{^-}{^N}{^N}海瑞恩是创建者塔戈的不朽造物，数千年前是为了守护原始神灵所居住的神之壁毯而创造。
 
-tagGDX2Devotion_C201=邪术之阳 ~ 寇瓦克 ^s(Korvaak, the Eldritch Sun) {^N}{^N}^g[高级](召唤，辅助攻击，6)
-tagGDX2Devotion_C201Desc=邪术之阳再次升起，自宣天神之王。
-tagGDX2Devotion_C202=永恒之沙 ~ 阿兹拉卡 ^s(Azrakaa, the Eternal Sands) {^N}{^N}^g[高级](穿刺系，速度，6)
-tagGDX2Devotion_C202Desc=阿兹拉卡，伊恩的永恒伴星，是她创造了，决定凡人命运的时光守护者手中的时之沙。她是他的配偶，也是最值得信赖的顾问，她能缓和伊恩的严苛审判，并为她所怜爱的凡人提供慰藉。
-tagGDX2Devotion_C203=无尽贪夜 ~ 尤戈尔 ^s(Yugol, the Insatiable Night) {^N}{^N}^g[高级](冰系，酸系，类召唤技能，6)
-tagGDX2Devotion_C203Desc=当至高神的光辉第一次照耀到众生之外时，众神发现一个巨大的黑暗在虚无中膨胀。只有一个名字：尤戈尔。尤戈尔那无尽的饥渴威胁着要吞噬原神精心创造的一切，只有千万颗星星的怜悯之光才能阻止它的前进。
+tagGDX2Devotion_C201=邪术之阳 ~ 寇瓦克 ^s(Korvaak, the Eldritch Sun){^-}
+tagGDX2Devotion_C201Desc={^g}[高级] 召唤，辅助攻击，6{^-}{^N}{^N}邪术之阳再次升起，自宣天神之王。
+tagGDX2Devotion_C202=永恒之沙 ~ 阿兹拉卡 ^s(Azrakaa, the Eternal Sands){^-}
+tagGDX2Devotion_C202Desc={^g}[高级] 穿刺系，速度，6{^-}{^N}{^N}阿兹拉卡，伊恩的永恒伴星，是她创造了，决定凡人命运的时光守护者手中的时之沙。她是他的配偶，也是最值得信赖的顾问，她能缓和伊恩的严苛审判，并为她所怜爱的凡人提供慰藉。
+tagGDX2Devotion_C203=无尽贪夜 ~ 尤戈尔 ^s(Yugol, the Insatiable Night){^-}
+tagGDX2Devotion_C203Desc={^g}[高级] 冰系，酸系，类召唤技能，6{^-}{^N}{^N}当至高神的光辉第一次照耀到众生之外时，众神发现一个巨大的黑暗在虚无中膨胀。只有一个名字：尤戈尔。尤戈尔那无尽的饥渴威胁着要吞噬原神精心创造的一切，只有千万颗星星的怜悯之光才能阻止它的前进。
 
-tagGDX2DevotionEffectB201=奥扎德的法令 ^s(Ulzaard's Decree)
+tagGDX2DevotionEffectB201=奥扎德的法令 ^s(Ulzaard's Decree){^-}
 tagGDX2DevotionEffectB201Desc=寇瓦克传令官的法令将会稳固你的意志与坚定你的信心。
-tagGDX2DevotionEffectB202=海瑞恩的怒目 ^s(Hyran's Glare)
+tagGDX2DevotionEffectB202=海瑞恩的怒目 ^s(Hyran's Glare){^-}
 tagGDX2DevotionEffectB202Desc=天神守护者的炫目光辉照耀在你的敌军身上，并开始造成他们队伍的混乱。
 
-tagGDX2DevotionEffectC201=寇瓦克之眼 ^s(Eye of Korvaak)
+tagGDX2DevotionEffectC201=寇瓦克之眼 ^s(Eye of Korvaak){^-}
 tagGDX2DevotionEffectC201Desc=寇瓦克投来的可怕目光将会在你身边爆发出一圈眼球，并刺穿任何不幸阻挡你道路的人。
-tagGDX2DevotionEffectC202=流沙 ^s(Shifting Sands)
+tagGDX2DevotionEffectC202=流沙 ^s(Shifting Sands){^-}
 tagGDX2DevotionEffectC202Desc=阿兹拉卡变化莫测的沙子可以听从你的号令，它将起伏穿梭于战场，向你的敌人释放出沙暴，最终回到你手中。
-tagGDX2DevotionEffectC203=尤戈尔的黑血 ^s(Black Blood of Yugol)
+tagGDX2DevotionEffectC203=尤戈尔的黑血 ^s(Black Blood of Yugol){^-}
 tagGDX2DevotionEffectC203Desc=处于永恒黑暗的尤戈尔黑血会从你的伤口溢出，在战场上扩散并搜寻敌人让他们在永恒黑暗中消灭。^odebuff属性攻击技能。
 tagGDX2DevotionEffectC203_PetSkill=黑血
 
