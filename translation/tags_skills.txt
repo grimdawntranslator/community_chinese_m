@@ -47,7 +47,7 @@ tagSkillClassName0809=
 
 tagSkillDevotion=星座信仰
 
-tagSkillClassDescription01=经过训练，帝国的士兵们既能在最恶劣的条件下生存，也能在面对帝国最凶恶的敌人时坚守阵地。士兵更喜欢近身作战的兵器，诸如剑与盾，但用起火器来也同样是得心应手。造成极致的伤害输出并非士兵所长，但其坚韧不拔的意志和领导能力足以弥补这一不足。
+tagSkillClassDescription01=经过训练，帝国的士兵们既能在最恶劣的条件下生存，也能在面对帝国最凶恶的敌人时坚守阵地。士兵更喜欢近身作战的兵器，诸如剑与盾，但用起火器来也同样得心应手。造成极致的伤害输出并非士兵所长。但其坚韧不拔的意志和领导能力足以弥补这一不足。
 
 tagSkillClassDescription02=身为帝国军队使用火药的大师，爆破者既是工程师，也是巫师。他们习惯使用一系列可怕的爆炸物和毁灭性法术来打破敌人阵型和破坏防御工事。他们通常喜欢远程战斗，使用枪械、陷阱和爆炸物来玩弄敌人，不过他们也能熟练地使用近战武器。
 
@@ -92,7 +92,7 @@ tagClass01SkillName01B=^g<^F士兵^g>^c战斗姿态 ^s(Fighting Form)
 tagClass01SkillDescription01B=愤怒的节奏对周围的敌人产生共振，造成严重的出血并击中附近的额外敌人，^o远程武器,按百分比几率穿透敌人[直线aoe];近战武器攻击2-3目标.
 tagClass01SkillName01C=^g<^F士兵^g>^c致死旋律 ^s(Deadly Momentum)
 tagClass01SkillDescription01C=在进行一次节奏打击之后，利用技能的优势，短暂地使你所有攻击都附加额外的致命力量。^o独立buff效果，不受作用在节奏本体的变异影响。
-tagClass01SkillName01D=不谐和弦 s^(Discord)
+tagClass01SkillName01D=不谐和弦 ^s(Discord)
 tagClass01SkillDescription01D=愤怒灵魂的不谐之音混入了士兵纯粹的战斗节奏之中，你的攻击中夹杂着元素能量。
 
 tagClass01SkillName02A=^g<^F士兵^g>^c力场波 ^s(Forcewave)
@@ -146,7 +146,7 @@ tagClass01SkillName12A=^g<^F士兵^g>^c荣耀兵士 ^s(Decorated Soldier)
 tagClass01SkillDescription12A=在白热化的战场上保持冷静思考的能力，使老兵们能够更轻易地切入敌人的防御空档,或是预判敌人的攻击节奏来实施反击。
 
 tagClass01SkillName13A=^g<^F士兵^g>^c曼海尔的壁垒 ^s(Menhir's Bulwark)
-tagClass01SkillDescription13A=召唤大地之神曼海尔，护佑其追随者拥有大地般的坚韧。^o需要一面盾牌.这项技能必须保持开启以持续生效。持盾安全保障。
+tagClass01SkillDescription13A=召唤大地之神曼海尔，护佑其追随者拥有大地般的坚韧。^o需要一面盾牌或双手武器。这项技能必须保持开启以持续生效。
 
 tagClass01SkillName14A=^g<^F士兵^g>^c奥莱隆之怒 ^s(Oleron's Rage)
 tagClass01SkillDescription14A=召唤远古战神奥莱隆，鼓舞其追随者燃起无法动摇的凶猛战意。^o这项技能必须保持开启以持续生效。
@@ -254,7 +254,7 @@ tagClass02SkillDescription12B=将驱动防爆护盾的巫术火焰延伸至已�
 tagClass02SkillName13A=^g<^F爆破^g>^c复仇烈焰 ^s(Vindictive Flame)
 tagClass02SkillDescription13A=奥祖因的永恒之焰曾给世界带来生机与休养,但是背叛与折磨将其扭曲为复仇的武器。向奥祖因宣誓效忠的人将在战斗中获得活力并对他们的敌人展开猛烈的报复。^o这项技能必须保持开启以持续生效。
 tagClass02SkillName13B=^g<^F爆破^g>^c奥祖因的愤怒 ^s(Ulzuin's Wrath)
-tagClass02SkillDescription13B=奥祖因的火焰烧焦附近的敌人，同时发出火与电的魔法来攻击更远的敌人，并削弱他们的力量。
+tagClass02SkillDescription13B=奥祖因的火焰烧焦附近的敌人，同时发出火与电的魔法来攻击更远的敌人。
 
 tagClass02SkillName10A=闪电炸弹
 tagClass02SkillDescription10A=向敌人抛出一个强力的带电炸弹。能有效对付强壮的单个敌人。
@@ -853,7 +853,7 @@ tagItemSkillB020Name=罗德拉西斯之触
 tagItemSkillB020Desc=向目标投掷一枚冰冷的投射物并将其禁锢。
 
 tagItemSkillB021Name=寒霜守护
-tagItemSkillB021Desc=向能够发现你防御薄弱之处的敌人施放冰块，将他们封冻得严严实实。
+tagItemSkillB021Desc=向能够发现你防御薄弱之处的敌人施放冰块。将他们封冻得严严实实。
 
 tagItemSkillB022Name=战斗暴怒
 tagItemSkillB022Desc=进入随时准备战斗的状态。
@@ -932,8 +932,8 @@ tagItemSkillB045Desc=一团爆裂的火球从你身上激射出来。
 tagItemSkillB046Name=酸性尖刺新星
 tagItemSkillB046Desc=一束酸性尖刺从你的身上激射出来。
 
-tagItemSkillB047Name=空中打击
-tagItemSkillB047Desc=在战场上发射大量的注入了虚化能量的炮火。
+tagItemSkillB047Name=空袭
+tagItemSkillB047Desc=在战场上突然释放注入虚化力量炮火的火力网。
 
 tagItemSkillC002Name=闪电光球
 tagItemSkillC002Desc=反击攻击你的敌人，向敌人所在的方向施放一枚闪电光球，伤害并眩晕所有所经之处的敌人。
@@ -1021,7 +1021,7 @@ tagItemSkillC027Name=能量护盾
 tagItemSkillC027Desc=施放一面护盾来吸收受到的物理伤害。
 
 tagItemSkillC028Name=恐惧
-tagItemSkillC028Desc=将敌人死亡的景象映入他们的脑海之中，不够坚强的敌人会因此而逃走。
+tagItemSkillC028Desc=将敌人死亡的景象映入他们的脑海之中。不够坚强的敌人会因此而逃走。
 
 tagItemSkillC029Name=狙击
 tagItemSkillC029Desc=以极佳的精准度射出一发无坚不摧的子弹。
@@ -1092,7 +1092,7 @@ tagItemSkillC050Name=巫妖守卫
 tagItemSkillC050Desc=在危难之时，巫妖守卫会保护它的持有者免遭致命的伤害。
 
 tagItemSkillC051Name=召唤奥格·纳佩什的亡魂
-tagItemSkillC051Desc=施放奥格·纳佩什的黑魔法，将他那无比邪恶的亡魂召唤到尘世之中。^o同一时间只能召唤一只亡魂。亡魂会受到战宠加成的影响。
+tagItemSkillC051Desc=施放奥格纳·佩什的黑魔法，将他那无比邪恶的亡魂召唤到尘世之中。^o同一时间只能召唤一只亡魂.亡魂会受到战宠加成影响。
 tagItemSkillC051Pet01=盾牌守护
 tagItemSkillC051Pet01Desc=亡魂帮助周围的友军抵抗群体控制效果，并且强化他们的护甲与反击能力。
 
@@ -1404,7 +1404,7 @@ tagItemSkillD021Name=虚化冲击波
 tagItemSkillD021Desc=一阵虚化能量冲击将攻击你的敌人击退。
 
 tagItemSkillD022Name=虚化烈焰
-tagItemSkillD022Desc=从敌人脚下喷发出一阵纯净的奥术火焰。
+tagItemSkillD022Desc=从敌人脚下喷发出一阵纯净的奥术火焰。^o需要副手法器。
 
 tagItemSkillD023Name=虚化奔流
 tagItemSkillD023Desc=从你体内爆发出纯净的奥术能量并在敌人之间奔涌。
@@ -1501,7 +1501,7 @@ tagItemSkillD053Desc=你的肆意屠杀向虚空发出了呼唤。
 tagItemSkillD053_Pet01=熵能终结
 
 tagItemSkillD054Name=守护者之眼
-tagItemSkillD054Desc=召唤德里格的无尽之眼中的一只来用尖刺屏障保护你。^o守护者之眼会受到玩家伤害加成的影响
+tagItemSkillD054Desc=召唤德里格的无尽之眼中的一只来用尖刺屏障保护你。
 tagItemSkillD054_Pet01=恶毒尖刺
 
 tagItemSkillD055Name=德里格的凝视
@@ -2170,7 +2170,7 @@ tagCompSkillA011Name=断头
 tagCompSkillA011Desc=尝试用能导致严重流血的致命一击斩杀敌人。
 
 tagCompSkillA012Name=斩杀
-tagCompSkillA012Desc=尝试用能导致严重流血的致命打击斩杀敌人。^o当使用近战武器发动时，会击中附近多个目标。
+tagCompSkillA012Desc=尝试用能导致严重流血的致命一击斩杀敌人。
 
 tagCompSkillA013Name=燃火利刃
 tagCompSkillA013Desc=以燃烧的烈焰强化你的攻击。^o这项技能必须保持开启以持续生效。
@@ -2404,7 +2404,7 @@ tagRelicSkillD014Name=复仇^s(Vengeance)
 tagRelicSkillD014Desc=释放你所承受的攻击并转化为毁灭性的冲击波。
 
 tagRelicSkillD015Name=虫群之心^s(Swarm Mind)
-tagRelicSkillD015Desc=你在无尽抗争中有节奏的步调将召唤虫群来协助你。^o虫群会受到战宠加成的影响。
+tagRelicSkillD015Desc=你在无尽抗争中有节奏的步调将召唤虫群来协助你。
 
 tagRelicSkillD016Name=大屠杀^s(Decimation)
 tagRelicSkillD016Desc=对敢于攻击所选仆从之人释放索拉尔的愤怒。
@@ -2876,7 +2876,7 @@ tagEnemySkillA03=幽魂瘴气
 tagEnemySkillA03_Desc=冥灵的诅咒会侵蚀你所有的防御力。
 
 tagEnemySkillA04=痛苦标记
-tagEnemySkillA04_Desc=恶魔的标记将吸取你的力量，减少伤害输出，速度并严重抑制生命回复力。
+tagEnemySkillA04_Desc=恶魔的标记将吸取你的力量。
 
 tagEnemySkillA05=自然之怒
 tagEnemySkillA05_Desc=巨魔的诅咒衰弱你的精神和肉体，削弱你对元素的抵抗能力。

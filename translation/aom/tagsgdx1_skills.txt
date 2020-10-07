@@ -546,7 +546,7 @@ tagGDX1CompSkillA105Name=虚化腐烂
 tagGDX1CompSkillA105Desc=用腐烂的虚化能量撕裂你的敌人，迅速在你的敌人中散播腐烂。
 
 tagGDX1CompSkillA106Name=虚空燃烧
-tagGDX1CompSkillA106Desc=通过将毁灭性的虚空能量注入攻击，你以巧妙一击对毫无戒备的敌人释放这些能量。投射物会在接触敌人时爆裂开来。^o所有的默认武器攻击均可生效。
+tagGDX1CompSkillA106Desc=通过将毁灭性的虚空能量注入攻击,你以巧妙一击对毫无戒备的敌人释放这些能量。投射物会在接触敌人时爆裂开来。^o所有的默认武器攻击均可生效。
 
 tagGDX1CompSkillA107Name=寒冷尖刺
 tagGDX1CompSkillA107Desc=投掷魔法纯冰尖刺刺穿你的敌人。

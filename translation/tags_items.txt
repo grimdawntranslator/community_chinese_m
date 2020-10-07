@@ -258,7 +258,7 @@ tagWeaponGun1hC018=死尸剥皮者
 tagWeaponGun1hC019=地炎之枪
 tagWeaponGun1hC020=冰钻
 
-tagWeaponGun1hD001=恶魔之舌
+tagWeaponGun1hD001=惡魔之舌
 tagWeaponGun1hD002=浩劫
 tagWeaponGun1hD003=释罪者
 tagWeaponGun1hD003Desc="检察官乔斯恩·法莱尔的投弹枪，曾在净化异端女巫中使用。"
@@ -319,7 +319,7 @@ tagWeaponGun2hC012=怒铁连发枪
 tagWeaponGun2hC013=持火者的连发枪
 
 tagWeaponGun2hD001=撒旦
-tagWeaponGun2hD002=巫异时刻
+tagWeaponGun2hD002=巫异時刻
 tagWeaponGun2hD002Desc="巫神施加过祝福并赐予追随者，用来保卫其圣殿不被教廷的愤怒所摧毁的武器。"
 tagWeaponGun2hD003=地狱喷涌
 tagWeaponGun2hD003Desc="枪管向前喷涌着来自七大地狱的愤怒。"
@@ -536,7 +536,7 @@ tagWeaponCaster1hD002=黑色天罚
 tagWeaponCaster1hD003=上神之怒
 tagWeaponCaster1hD004=缚魂者
 tagWeaponCaster1hD004Desc="这把邪恶的节杖禁锢着一群游魂。"
-tagWeaponCaster1hD005=奥莱克希拉的寒意
+tagWeaponCaster1hD005=奥莱克西拉的寒意
 tagWeaponCaster1hD006=帕内蒂的复制法杖
 tagWeaponCaster1hD006Desc="曾经属于帕内蒂的器物，他是复制魔法的大师，也是复制飞弹的创始人。"
 tagWeaponCaster1hD007=尤尔托斯的火花
@@ -579,7 +579,7 @@ tagWeaponCrossbow1hA001=^w手枪弩
 tagWeaponCrossbow1hA002=^w复合弩
 tagWeaponCrossbow1hA003=^w滑轮弩
 tagWeaponCrossbow1hA004=^w连弩
-
+tagWeaponCrossbow2hB003=伽弗林的十字弓
 
 #Shields 盾牌
 
@@ -594,7 +594,6 @@ tagShieldA007=^w神盾
 tagShieldA008=^w轻圆盾
 tagShieldA009=^w步兵盾
 tagShieldA010=^w鸢盾
-tagShieldA011=^w盾牌
 
 tagShieldB001=^w典狱长的壁垒
 tagShieldB001Desc="用硬化钢和无情的恨意锻造而成。"
@@ -635,6 +634,7 @@ tagShieldC013Desc="以奥术锻造而成，用来引导元素的原始力量。"
 tagShieldC014=拉夫娜的守护
 tagShieldC014Desc="屠杀革翅目虫后得到的层层叠叠的甲壳。"
 tagShieldC015=角斗士
+tagShieldC015B=角斗士
 tagShieldC016=光辉守卫仲裁者
 tagShieldC017=军团先锋盾
 tagShieldC018=密耳弥冬的护佑
@@ -1472,6 +1472,8 @@ tagLegsA006=护腿
 tagLegsB001=^l德里格宗派护腿
 tagLegsB002=^l索拉尔宗派护腿
 tagLegsB003=^l拜斯迈宗派护腿
+tagLegsB004=^l安娜斯特瑞娅的护腿
+tagLegsB005=^l安娜斯特瑞娅的绑腿
 
 tagLegsC001=雾行长裤
 tagLegsC002=隐士护腿
@@ -2173,7 +2175,7 @@ tagBlueprint_MaterialA01=^f设计图：虚化集簇
 
 #Relics 圣物
 
-tagDeviceBonus=完成奖励
+tagDeviceBonus=完整部件奖励
 tagDeviceTier01=注魔圣物
 tagDeviceTier02=卓越圣物
 tagDeviceTier03=神话圣物
@@ -2329,7 +2331,7 @@ tagCraftComponentRareDesc=失传已久的卓越锻造技术。
 tagCraftShardBeronathDesc=将钢铁变幻为神兽贝若纳斯的鳞片。
 tagCraftRelicDesc=因恐怖黎明而失传的远古锻造技术。
 tagCraftTransmuteDesc=通过熔炉的高温以及一些炼金术，稀有材料能够被炼成其他等值的稀有物品。
-tagCraftRandomLegendaryDesc=铁匠把原始奥术能量注入这些物体来创造传奇装备，物品等级上限为75级。57级以下的人物会锻造可能出一件史诗级装备。
+tagCraftRandomLegendaryDesc=铁匠把原始奥术能量注入这些物体来创造传奇装备，物品等级上限为75级。58级以下的人物可能会锻造出一件史诗级装备。
 tagCraftRandomLegendaryAccessoryDesc=铁匠把原始奥术能量注入这些物体来创造传奇装备，物品等级上限为75级。58级以下的人物会锻造出一件史诗级装备。
 
 tagCraftRandomAxe=附魔之斧
@@ -3657,6 +3659,7 @@ tagItemSetC006Desc="执行外交使命的帝王使节所穿的服饰。"
 
 tagItemSetC007Name=药剂师
 tagItemSetC007NameB=预言者
+tagItemSetC007CName=预言者
 tagItemSetC007Desc="医疗者和预言者们所穿过的服饰。他们治疗着这个世界对人们，不分种族与国界。"
 
 tagItemSetC008Name=破灭
@@ -3821,7 +3824,7 @@ tagPrefixAA005=^y武力·
 tagPrefixAA006=^y神秘·
 tagPrefixAA007=^y活力·
 tagPrefixAA008=^y能源·
-tagPrefixAA009=^y侵攻·
+tagPrefixAA009=^y侵攻☆·
 tagPrefixAA010=^y健壮·
 
 tagPrefixAA011=^y战士·

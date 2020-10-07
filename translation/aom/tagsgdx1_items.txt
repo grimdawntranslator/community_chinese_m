@@ -631,7 +631,7 @@ tagGDX1WaistD102=角斗士的荣耀
 tagGDX1WaistD103=灵魂寻者系带
 tagGDX1WaistD103_Desc="流浪的灵魂被吸引到腰带的织布之中."
 tagGDX1WaistD104=背信弃义的手段
-tagGDX1WaistD104_Desc="粉末与毒素的集合是化学反应的理想选择，这使得火药武器成为了奥术技艺的一大劲敌。"
+tagGDX1WaistD104_Desc="传言曾经属于夜刃尼达拉，每个小瓶都充满着一种独特的毒素.有些甚至可以组合产生完全不同的结果."
 tagGDX1WaistD105=诡计系带
 tagGDX1WaistD106=贝若纳斯之鳞
 tagGDX1WaistD106_Desc="来自巨兽贝若纳斯的鳞片几个世纪都没有褪色，很可能永远也不会."
@@ -733,7 +733,7 @@ tagGDX1NecklaceC116=符文先祖的宝石
 
 tagNecklaceD005B=贝若纳斯无双之眼
 tagGDX1NecklaceD101=灵魂猎手
-tagGDX1NecklaceD101_Desc="敌人死后的灵魂会被这条项链迅速捕获。"
+tagGDX1NecklaceD101_Desc="每一个被杀的敌人的灵魂被迅速捕获在这条项链之中。"
 tagGDX1NecklaceD102=愤怒之焰
 tagGDX1NecklaceD103=维加尔的饥渴
 tagGDX1NecklaceD103_Desc="瓶内装满了温迪戈掠夺者的血液。"
@@ -1167,13 +1167,13 @@ tagGDX1CraftRandomLegendaryAccessoryDesc2=铁匠把原始奥术能量注入这�
 tagGDX1CraftRandomLegendaryItemDesc2=铁匠能打造一件符合你的等级的传奇装备，物品等级上限为94级。
 
 tagGDX1CraftMaterial_AetherialVanguard=虚灵信件
-tagGDX1CraftMaterial_AetherialVanguard_Desc="奥术文本注入了虚灵能量。可能是用于传输信息，凡人之眼过于敏感而无法阅读。"
+tagGDX1CraftMaterial_AetherialVanguard_Desc="奥术文本注入了虚灵能量.可能是用于传输信息，凡人之眼过于敏感而无法阅读。"
 
 tagGDX1CraftMaterial_AetherialVanguard02=虚灵突变剂
 tagGDX1CraftMaterial_AetherialVanguard02_Desc="一种注入虚灵能量的粘性液体，当附近有活物时会在瓶中剧烈的晃动。"
 
 tagGDX1CraftMaterial_Wendigo=温迪戈灵魂
-tagGDX1CraftMaterial_Wendigo_Desc="一个充满黑暗潜能的邪恶灵魂。它低声承诺给你力量。"
+tagGDX1CraftMaterial_Wendigo_Desc="一个充满黑暗潜能的邪恶灵魂.它低声承诺给你力量。"
 
 tagGDX1CraftMaterial_Ugdenbloom=巫登之花
 tagGDX1CraftMaterial_Ugdenbloom_Desc="带有如此绚丽的色彩，却散发出腐烂的恶臭。"
@@ -1225,6 +1225,9 @@ tagGDX1ConsumableF107Desc="一种充满潜能的粘性流体。"^o可以放置�
 
 tagGDX1Consumable_AttributeReset=重塑补药
 tagGDX1Consumable_AttributeReset_Desc="怪异的温暖充满全身，进行自我重塑。"
+#DLC
+tagGDX1DLCA01=幻化：假发魔粉
+tagGDX1DLCA01Desc="精致和品位的定义。"
 
 
 

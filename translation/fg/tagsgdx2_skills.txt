@@ -100,6 +100,17 @@ tagGDX2Class09SkillDescription14A=对于守誓者来说坚定的信仰就是最�
 tagGDX2ItemSkillB201Name=火焰冲击波
 tagGDX2ItemSkillB201Desc=在攻击时爆发出一道烈焰冲击。
 
+tagGDX2ItemSkillB202Name=日阳新星
+tagGDX2ItemSkillB202Desc=向四周爆发出一阵熔火，焚烧附近的敌人。
+
+tagGDX2ItemSkillB203Name=寒冰骨刺
+tagGDX2ItemSkillB203Desc=召唤寒冷的骨刺击穿你面前的大地。
+
+tagGDX2ItemSkillB204Name=争斗者的竭力
+tagGDX2ItemSkillB204Desc=在你无情的攻势下，敌人将会殚精竭力。
+
+tagGDX2ItemSkillB205Name=虚化散射
+tagGDX2ItemSkillB205Desc=向目标区域疯狂地倾泻注入虚化能量的弹药。^o这是一项远程武器技能。同时开启双持远程武器的能力。
 tagGDX2ItemSkillC201Name=毒刺新星
 tagGDX2ItemSkillC201Desc=在你周围爆发带毒的尖刺，刺穿附近的敌人。
 
@@ -310,6 +321,8 @@ tagGDX2ItemSkillD262Name=世界之门
 tagGDX2ItemSkillD262Desc=在现实中撕开一道裂隙，将站在其中的敌人分割开来。^o世界之门受战宠加成影响。
 tagGDX2ItemSkillD262PetSkill_Name=分割
 
+tagGDX2ItemSkillD263Name=帷幕守卫
+tagGDX2ItemSkillD263Desc=碎裂之境的不稳定能量让你获得坚定的决心。
 
 #Component Skills
 tagGDX2CompSkillA033Name=虚空弹药
