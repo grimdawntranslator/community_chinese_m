@@ -3976,7 +3976,7 @@ tagPrefixB021_Class_A=^g先知·
 
 tagPrefixB001_Sh_A=^g恒定★·
 tagPrefixB002_Sh_A=^g看守者·
-tagPrefixB003_Sh_A=^g过载的★·
+tagPrefixB003_Sh_A=^g过载★·
 tagPrefixB004_Sh_A=^g时光术士★·
 tagPrefixB005_Sh_A=^g霸主·
 tagPrefixB006_Sh_A=^g驯犬者·
