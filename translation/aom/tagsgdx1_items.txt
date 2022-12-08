@@ -1,4 +1,4 @@
-﻿
+
 #Weapons
 
 
@@ -88,6 +88,7 @@ tagGDX1WeaponGun1hD103_Desc="严格按照白银之塔的大法师--阿格维克�
 tagGDX1WeaponGun1hD107=余烬之核
 tagGDX1WeaponGun1hD108=要塞左轮手枪
 tagGDX1WeaponGun1hD109=黑暗火焰焚枪
+
 tagGDX1WeaponGun1hD110=达加隆的破坏者
 tagGDX1WeaponGun1hD110_Desc="枪管内部的符文以超自然的力量将子弹发射出去."
 tagGDX1WeaponGun1hD111=达加隆的歼灭者
@@ -181,7 +182,6 @@ tagGDX1WeaponCaster1hC101=掠夺者之刺
 tagGDX1WeaponCaster1hC102=加拉瓦克之咬
 tagGDX1WeaponCaster1hC102_Desc="加拉瓦克大师的仪式刀刃，据说他用这把刀劈开了现世的边界."
 tagGDX1WeaponCaster1hC103=奥扎德通灵者
-tagGDX1WeaponCaster1hC103_Desc="一股天神的气息被永远地封印在了这根法杖之中。"
 tagGDX1WeaponCaster1hC104=奥术风暴召唤者
 tagGDX1WeaponCaster1hC105=加达尔弗的中指
 tagGDX1WeaponCaster1hC105_Desc="倒下的加达尔弗只有一件事要对他的刽子手说."
@@ -239,7 +239,7 @@ tagGDX1ShieldD101=诅咒深渊
 tagGDX1ShieldD101_Desc="那些接受温迪戈礼物的人将被永远诅咒."
 tagGDX1ShieldD102=伊露兰守望者
 tagGDX1ShieldD102_Desc="岩石之面说只有当帝国迫切需要时它才睁开眼睛."
-tagGDX1ShieldD103=特瑞恩的报复
+tagGDX1ShieldD103=特瑞恩的报复 
 tagGDX1ShieldD107=灰骑士
 tagGDX1ShieldD107_Desc="曼海尔的无名防御者壁垒，他独自一人对抗成群的异教徒并最终成为胜利者."
 tagGDX1ShieldD108=奥克塔维尔斯的壁垒
@@ -330,6 +330,8 @@ tagGDX1HeadB104=^l帕克拉的面容
 tagGDX1HeadB104_Desc="这个面具带来的恶臭令人无法忍受."
 tagGDX1HeadB105=^l死亡低语兜帽
 tagGDX1HeadB106=^l裂天者头环
+tagGDX1HeadB107=^l纳梅迪亚之角
+tagGDX1HeadB107_Desc="死亡的寒意笼罩在这个帽子之上。"
 
 
 tagGDX1HeadC101=灵魂之环
@@ -367,6 +369,7 @@ tagGDX1HeadD113=迷失灵魂面具
 tagGDX1HeadD114=奥克塔维尔斯的面甲
 tagGDX1HeadD115=戈尔巴的面罩
 tagGDX1HeadD116=黑暗火焰头盔
+
 tagGDX1HeadD117=法术天灾面甲
 tagGDX1HeadD118=法师杀手的面罩
 tagGDX1HeadD119=瓦尔古尔的珍宝
@@ -403,10 +406,10 @@ tagGDX1HeadF118=温迪戈暴躁头盔
 
 #ArmorShoulders
 tagGDX1ShoulderB101=^l升灵肩铠
-tagGDX1ShoulderB102=^l升灵肩胄
-tagGDX1ShoulderB103=^l克拉瓦尔肩胄
+tagGDX1ShoulderB102=^l升灵护肩
+tagGDX1ShoulderB103=^l克拉瓦尔护肩
 tagGDX1ShoulderB103_Desc="巫登沼泽巨妖的皮肤太坚硬，可能很难用来制作，但这也是它被工匠们所珍视的好理由."
-tagGDX1ShoulderB104=^l克拉瓦尔护肩
+tagGDX1ShoulderB104=^l克拉瓦尔肩垫
 
 tagGDX1ShoulderC101=幽灵呼唤者斗篷
 tagGDX1ShoulderC102=幽灵骑士的肩铠
@@ -524,7 +527,7 @@ tagGDX1TorsoF114=温迪戈邪恶护胸
 tagGDX1TorsoF115=温迪戈织法者护胸
 tagGDX1TorsoF116=温迪戈暴躁铁甲
 tagGDX1TorsoF117=温迪戈邪恶铁甲
-tagGDX1TorsoF118=温迪戈守护者铁甲
+tagGDX1TorsoF118=温迪戈守护者 铁甲
 
 
 #ArmorHands
@@ -538,7 +541,7 @@ tagGDX1HandsC111=鲜血仪式护手
 
 tagGDX1HandsD101=断裂扭曲之握
 tagGDX1HandsD101_Desc="触及虚空本体的手套被永远地扭曲."
-tagGDX1HandsD102=霸主铁护手
+tagGDX1HandsD102=霸主铁护手 
 tagGDX1HandsD103=伊格纳法的护手
 tagGDX1HandsD104=哈加拉德的极寒之握
 tagGDX1HandsD109=猩红之爪
@@ -664,7 +667,7 @@ tagGDX1RingA103=^w保护者指环
 tagGDX1RingA104=^w保护者戒指
 
 tagGDX1RingB101=^l生命指环
-tagGDX1RingB101_Desc="戒指中的荆棘在吸血，似乎能让藤蔓恢复新生."^o后缀：迅速，进击，保护，怒吼巨兽等；前缀：雷击，不朽，风暴，谋杀者（蔓藤）等。
+tagGDX1RingB101_Desc="戒指中的荆棘在吸血，似乎能让藤蔓恢复新生."^o迅速，进击，保护，怒吼巨兽，雷击，不朽，风暴，谋杀者（蔓藤）等，仅供参考。
 tagGDX1RingB102=^l藤蔓指环
 tagGDX1RingB103=^l加尔加伯的指环
 tagGDX1RingB103_Desc=触摸这枚正在燃烧的戒指是痛苦的，但不会对实体造成伤害。"
@@ -750,7 +753,7 @@ tagGDX1NecklaceD113G=符文低语引导之眼
 tagGDX1NecklaceD113H=不朽低语引导之眼
 tagGDX1NecklaceD113_Desc="凝视的眼睛显示出一个画面，广袤而陌生土地上充满了怪物和恶魔，它们不同于凯恩世界的任何生物。"
 tagGDX1NecklaceD114=永恒火焰碎片
-tagGDX1NecklaceD114_Desc="水晶里散发着不灭的火焰。"
+tagGDX1NecklaceD114_Desc="水晶里散发着不灭的火焰。" 
 tagGDX1NecklaceD115=迷失灵魂碎片
 tagGDX1NecklaceD116=灾变催化剂
 tagGDX1NecklaceD117=岩石守卫护符
@@ -797,13 +800,15 @@ tagGDX1MedalB108=^y守望者徽章
 tagGDX1MedalB109=^l斯拉萨尔的盾徽
 tagGDX1MedalB109_Desc="利齿充满着被虚化力量扭曲的毒液。"
 tagGDX1MedalB110=^l普拉格尤斯的标记
+tagGDX1MedalB111=^l纳梅迪亚之眼
+tagGDX1MedalB111_Desc="毫无生机的眼球仍在抽搐。"
 
 tagGDX1MedalC101=神圣标记
 tagGDX1MedalC102=罪恶标记
 tagGDX1MedalC103=遗忘灵魂的标记
-tagGDX1MedalC103_Desc="纪念那些堕落的被遗忘者。"
+tagGDX1MedalC103_Desc="纪念那些堕落的被遗忘者。" 
 tagGDX1MedalC104=破碎誓言标记
-tagGDX1MedalC104_Desc="这枚勋章曾属于一个被除名的审判官，他对光明会的背叛玷污了自己的荣誉。"
+tagGDX1MedalC104_Desc="这枚勋章曾属于一个被除名的审判官，他对光明会的背叛玷污了自己的荣誉。" 
 tagGDX1MedalC105=宝库守护者标记
 tagGDX1MedalC105_Desc="这枚标记属于宝库守护者，光明会宝库的神圣保卫者。"
 tagGDX1MedalC106=至圣徽章
@@ -979,7 +984,7 @@ tagGDX1Blueprint_ArmorC115=设计图：神话 圣契的不洁面容
 tagGDX1Blueprint_ArmorC116=设计图：神话 黎明守卫头盔
 tagGDX1Blueprint_ArmorC117=设计图：神话 持火者夹克
 tagGDX1Blueprint_ArmorC118=设计图：神话 卡里多战衣
-tagGDX1Blueprint_ArmorC119=设计图：神话 密耳弥冬的面甲
+tagGDX1Blueprint_ArmorC119=设计图：神话 密尔弥冬的面甲
 tagGDX1Blueprint_ArmorC120=设计图：神话 莫格卓根的风帽
 tagGDX1Blueprint_ArmorC121=设计图：神话 完美主义者的风帽
 
@@ -997,6 +1002,7 @@ tagGDX1Blueprint_ArmorD113=设计图：迷失灵魂面具
 tagGDX1Blueprint_ArmorD114=设计图：奥克塔维尔斯的面甲
 tagGDX1Blueprint_ArmorD115=设计图：戈尔巴的面罩
 tagGDX1Blueprint_ArmorD116=设计图：黑火头盔
+
 tagGDX1Blueprint_ArmorD117=设计图：法术天灾面甲
 tagGDX1Blueprint_ArmorD118=设计图：法师杀手的面罩
 tagGDX1Blueprint_ArmorD119=设计图：瓦尔古尔的宝石
@@ -1132,7 +1138,7 @@ tagGDX1RelicC102=^s审判Lv35-^c仇杀
 tagGDX1RelicC102Desc="无情追杀远古敌人。"
 
 tagGDX1RelicD101=^s死灵Lv60-^c污染
-tagGDX1RelicD101Desc="原始奥术能量，被邪恶的欲望所污染。"
+tagGDX1RelicD101Desc="原始奥术能量， 被邪恶的欲望所污染。"
 tagGDX1RelicD102=^s审判Lv60-^c复仇
 tagGDX1RelicD102Desc="君子报仇，十年未晚。"
 tagGDX1RelicD103=^s死灵Lv70-^c安克维亚的挽歌
@@ -1221,20 +1227,22 @@ tagGDX1ConsumableF105Desc="一种能将温迪戈饥渴注入武器的油。"
 tagGDX1ConsumableF106=邪恶酊剂
 tagGDX1ConsumableF106Desc="打破瓶子，释放邪恶灵魂缠绕敌人。"
 tagGDX1ConsumableF107=清晰药水
-tagGDX1ConsumableF107Desc="一种充满潜能的粘性流体。"^o可以放置在共享储物箱中以便供其它角色使用。
+tagGDX1ConsumableF107Desc="一种充满潜能的粘性流体。"^o可以放置在共享储物箱中以便供其它角色使用.
 
 tagGDX1Consumable_AttributeReset=重塑补药
 tagGDX1Consumable_AttributeReset_Desc="怪异的温暖充满全身，进行自我重塑。"
+
 #DLC
 tagGDX1DLCA01=幻化：假发魔粉
 tagGDX1DLCA01Desc="精致和品位的定义。"
 
 
 
+
 #ItemEnchantment
 
 tagGDX1EnchantA101A=星尘
-tagGDX1EnchantA101Desc="精心收集的来自流星的尘埃，它的奥术性能不会减弱。"^w^n(用于所有单手武器，盾牌和法器副手)
+tagGDX1EnchantA101Desc="精心收集的来自流星的尘埃，它的奥术性能不会减弱。"^w^n(用于所有单手武器，盾牌和法器副手) 
 
 tagGDX1EnchantA102A=强效星尘
 tagGDX1EnchantA102Desc="精心收集的来自流星的尘埃，它的奥术性能不会减弱。"^w^n(用于所有双手武器)
@@ -1252,10 +1260,10 @@ tagGDX1EnchantA106A=强效妖术师之吻
 tagGDX1EnchantA106Desc="女巫团使用这种强效粉末来处理害兽。"^w^n(用于所有双手武器)
 
 tagGDX1EnchantA107A=病兽脓疱
-tagGDX1EnchantA107Desc="虽然死灵之术在女巫团很少被使用，但它有它的用途。特别是从疫病野兽的脓水中正确地萃取奥术能量。"^w^n(用于所有单手武器，盾牌和法器副手)
+tagGDX1EnchantA107Desc="虽然死灵之术在女巫团很少被使用，但它有它的用途.特别是从疫病野兽的脓水中正确地萃取奥术能量。"^w^n(用于所有单手武器，盾牌和法器副手)
 
 tagGDX1EnchantA108A=强效病兽脓疱
-tagGDX1EnchantA108Desc="虽然死灵之术在女巫团很少被使用，但它有它的用途。特别是从疫病野兽的脓水中正确地萃取奥术能量。"^w^n(用于所有双手武器)
+tagGDX1EnchantA108Desc="虽然死灵之术在女巫团很少被使用，但它有它的用途.特别是从疫病野兽的脓水中正确地萃取奥术能量。"^w^n(用于所有双手武器)
 
 tagGDX1EnchantA109A=腐肉粉末
 tagGDX1EnchantA109Desc="创造者说这肉粉是由巫登沼泽的浮尸制成。没有人真的想知道是由什么制作的。"^w^n(用于戒指和项链)
@@ -1306,7 +1314,7 @@ tagGDX1EnchantA124A=血肉扭曲粉末
 tagGDX1EnchantA124Desc="必须小心处理，不能直接触碰，但从虚灵腐败中提取是最困难的一步。"^w^n(用于戒指和项链)
 
 tagGDX1EnchantA125A=虚空灰烬
-tagGDX1EnchantA125Desc="冥煞之境的灰烬，有时可以在被杀死的冥煞尸体上找到。没有人会愚蠢到进入冥煞裂隙的。"^w^n(用于戒指和项链)
+tagGDX1EnchantA125Desc="冥煞之境的灰烬，有时可以在被杀死的冥煞尸体上找到.没有人会愚蠢到进入冥煞裂隙的。"^w^n(用于戒指和项链)
 
 tagGDX1EnchantA126A=暗夜钢铁抛光剂
 tagGDX1EnchantA126Desc="一种马尔茅斯特制的，伊露兰的夜刃们极度渴求的东西。"^w^n(用于戒指和项链)
@@ -1318,10 +1326,10 @@ tagGDX1EnchantA128A=巨像脊骨
 tagGDX1EnchantA128Desc="别小看了虚灵巨像，只要放倒一只就能提供够用好几个月的制作材料。"^w^n(用于戒指和项链)
 
 tagGDX1EnchantA129A=温迪戈毛皮
-tagGDX1EnchantA129Desc="粉末源自温迪戈的皮毛簇，是掠夺者的恩赐。"^w^n(用于所有单手武器，盾牌和法器副手)
+tagGDX1EnchantA129Desc="粉末源自温迪戈的皮毛簇, 是掠夺者的恩赐。"^w^n(用于所有单手武器，盾牌和法器副手)
 
 tagGDX1EnchantA130A=强效温迪戈毛皮
-tagGDX1EnchantA130Desc="粉末源自温迪戈的皮毛簇，是掠夺者的恩赐。"^w^n(用于所有双手武器)
+tagGDX1EnchantA130Desc="粉末源自温迪戈的皮毛簇, 是掠夺者的恩赐。"^w^n(用于所有双手武器)
 
 tagGDX1EnchantA131A=血鳞粉末
 tagGDX1EnchantA131Desc="粉末由血鳞蛇人的鳞片制成，有时能看到它们在巫登沼泽漫游。"^w^n(用于所有单手武器，盾牌和法器副手)
@@ -1330,10 +1338,10 @@ tagGDX1EnchantA132A=强效血鳞粉末
 tagGDX1EnchantA132Desc="粉末由血鳞蛇人的鳞片制成，有时能看到它们在巫登沼泽漫游。"^w^n(用于所有双手武器)
 
 tagGDX1EnchantA133A=刺壳粉末
-tagGDX1EnchantA133Desc="粉末来自巫登沼泽刺壳的硬壳。需要花费大量的时间和力量破碎它的外壳才能制成这么好的材料。"^w^n(用于所有单手武器，盾牌和法器副手)
+tagGDX1EnchantA133Desc="粉末来自巫登沼泽刺壳的硬壳.需要花费大量的时间和力量破碎它的外壳才能制成这么好的材料。"^w^n(用于所有单手武器，盾牌和法器副手)
 
 tagGDX1EnchantA134A=强效刺壳粉末
-tagGDX1EnchantA134Desc="粉末来自巫登沼泽刺壳的硬壳。需要花费大量的时间和力量破碎它的外壳才能制成这么好的材料。"^w^n(用于所有双手武器)
+tagGDX1EnchantA134Desc="粉末来自巫登沼泽刺壳的硬壳.需要花费大量的时间和力量破碎它的外壳才能制成这么好的材料。"^w^n(用于所有双手武器)
 
 tagGDX1EnchantA135A=魂萦粉末
 tagGDX1EnchantA135Desc="有时出现在巫登沼泽的鬼魂会留下这种粉末。"^w^n(用于所有单手武器，盾牌和法器副手)
@@ -1367,7 +1375,7 @@ tagGDX1EnchantB108A=强效女巫团的祸乱
 tagGDX1EnchantB108Desc="一种采自巫登沼泽各种植物的邪恶毒素，结合女巫团魔法来发挥其最大的功效。"^w^n(用于所有双手武器)
 
 tagGDX1EnchantB109A=女巫的黑暗火焰
-tagGDX1EnchantB109Desc="通常配合三巫神信徒执行仪式使用，女巫团经常在仪式召唤中使用这种邪恶粉末。"^w^n(用于戒指和项链)
+tagGDX1EnchantB109Desc="通常配合三巫神信徒执行仪式使用，女巫团经常在仪式召唤中使用这种邪恶粉末."^w^n(用于戒指和项链)
 
 tagGDX1EnchantB110A=幽灵的尖叫
 tagGDX1EnchantB110Desc="通过一个可怕的束缚仪式，女巫团妖术师能够捕获和粉碎巫登沼泽幽灵。"^w^n(用于戒指和项链)
@@ -1409,7 +1417,7 @@ tagGDX1EnchantB122A=马尔茅斯之心
 tagGDX1EnchantB122Desc="这种惊人的强大粉末是在马尔茅斯最初被突袭的绝望之中制作而成。虽然借鉴于虚灵而且可能会导致人类的毁灭，但是现在它起到了至关重要的作用。"^w^n(用于所有单手武器，盾牌和法器副手)
 
 tagGDX1EnchantB123A=强效马尔茅斯之心
-tagGDX1EnchantB123Desc="这种惊人的强大粉末是在马尔茅斯最初被突袭的绝望之中制作而成。虽然借鉴于虚灵而且可能会导致人类的毁灭，但是现在它起到了至关重要的作用。"^w^n(用于所有双手武器)
+tagGDX1EnchantB123Desc="这种惊人的强大粉末是在马尔茅斯最初被突袭的绝望之中制作而成。虽然借鉴于虚灵而且可能会导致人类的毁灭，但是现在它起到了至关重要的作用。^w^n(用于所有双手武器)
 
 tagGDX1EnchantB124A=奥术之心粉末
 tagGDX1EnchantB124Desc="这种不稳定魔法粉的火热甚至可以熔穿护甲，它所蕴含的潜能值得奥术学着们冒风险。"^w^n(用于戒指和项链)
@@ -1433,36 +1441,36 @@ tagGDX1EnchantB130A=奥秘之尘
 tagGDX1EnchantB130Desc="这种附魔由吉尔达姆秘学社特制而成，可以提升使用者的奥术能力。"^w^n(用于戒指和项链)
 
 tagGDX1EnchantB131A=掠夺者的收割
-tagGDX1EnchantB131Desc="掠夺者赠予邪恶信徒的礼物。它会带来无尽的饥渴。"^w^n(用于所有单手武器，盾牌和法器副手)
+tagGDX1EnchantB131Desc="掠夺者赠予邪恶信徒的礼物.它会带来无尽的饥渴。"^w^n(用于所有单手武器，盾牌和法器副手)
 
 tagGDX1EnchantB132A=强效掠夺者的收割
-tagGDX1EnchantB132Desc="掠夺者赠予邪恶信徒的礼物。它会带来无尽的饥渴。"^w^n(用于所有双手武器)
+tagGDX1EnchantB132Desc="掠夺者赠予邪恶信徒的礼物.它会带来无尽的饥渴。"^w^n(用于所有双手武器)
 
 tagGDX1EnchantB133A=掠夺者之眼
-tagGDX1EnchantB133Desc="掠夺者赠予邪恶信徒的礼物。它会激发无与伦比的忠诚。"^w^n(用于所有单手武器，盾牌和法器副手)
+tagGDX1EnchantB133Desc="掠夺者赠予邪恶信徒的礼物.它会激发无与伦比的忠诚。"^w^n(用于所有单手武器，盾牌和法器副手)
 
 tagGDX1EnchantB134A=强效掠夺者之眼
-tagGDX1EnchantB134Desc="掠夺者赠予邪恶信徒的礼物。它会激发无与伦比的忠诚。"^w^n(用于所有双手武器)
+tagGDX1EnchantB134Desc="掠夺者赠予邪恶信徒的礼物.它会激发无与伦比的忠诚。"^w^n(用于所有双手武器)
 
 tagGDX1EnchantB135A=掠夺者之怒
-tagGDX1EnchantB135Desc="掠夺者赠予邪恶信徒的礼物。它会唤醒无尽的怒火。"^w^n(用于所有单手武器，盾牌和法器副手)
+tagGDX1EnchantB135Desc="掠夺者赠予邪恶信徒的礼物.它会唤醒无尽的怒火。"^w^n(用于所有单手武器，盾牌和法器副手)
 
 tagGDX1EnchantB136A=强效掠夺者之怒
-tagGDX1EnchantB136Desc="掠夺者赠予邪恶信徒的礼物。它会唤醒无尽的怒火。"^w^n(用于所有双手武器)
+tagGDX1EnchantB136Desc="掠夺者赠予邪恶信徒的礼物.它会唤醒无尽的怒火。"^w^n(用于所有双手武器)
 
 tagGDX1EnchantB137A=掠夺者之息
-tagGDX1EnchantB137Desc="掠夺者赠予邪恶信徒的礼物。与它接触会造成严重的创伤和水疱。"^w^n(用于所有单手武器，盾牌和法器副手)
+tagGDX1EnchantB137Desc="掠夺者赠予邪恶信徒的礼物.与它接触会造成严重的创伤和水疱。"^w^n(用于所有单手武器，盾牌和法器副手)
 
 tagGDX1EnchantB138A=强效掠夺者之息
-tagGDX1EnchantB138Desc="掠夺者赠予邪恶信徒的礼物。与它接触会造成严重的创伤和水疱。"^w^n(用于所有双手武器)
+tagGDX1EnchantB138Desc="掠夺者赠予邪恶信徒的礼物.与它接触会造成严重的创伤和水疱。"^w^n(用于所有双手武器)
 
 
 tagGDX1EnchantC101A=女巫团的守护粉末
 tagGDX1EnchantC101Desc="女巫团制作的妖术粉可以在仪式中保护她们。"^w^n(用于所有护甲)
 tagGDX1EnchantC102A=女巫团的黑色灰烬
-tagGDX1EnchantC102Desc="被女巫团注入冥神之血的灰烬"^w^n(用于所有护甲)
+tagGDX1EnchantC102Desc="被女巫团注入冥神之血的灰烬。"^w^n(用于所有护甲)
 tagGDX1EnchantC103A=女巫团的血腥灰烬
-tagGDX1EnchantC103Desc="被女巫团注入温迪戈之血的灰烬。"^w^n(用于所有护甲)
+tagGDX1EnchantC103Desc="被女巫团注入温迪戈之血的灰烬。"^w^n(用于所有护甲) 
 tagGDX1EnchantC104A=马尔茅斯的灵魂守护粉末
 tagGDX1EnchantC104Desc="在马尔茅斯制作的妖术粉末用于保护幸存者免受虚灵威胁，但是还没人胆敢试验其有效性。"^w^n(用于所有护甲)
 tagGDX1EnchantC105A=马尔茅斯的灼伤粉末
@@ -1503,10 +1511,10 @@ tagGDX1CompA107Name=^w黑夜之印 ^sb24
 tagGDX1CompA107Desc="夜刃阿玛拉斯塔为了实现一个特殊目标而设计的印章。"^w^n(用于所有类型的武器，盾牌和副手法器)
 
 tagGDX1CompA108Name=^w毁灭之印 ^sb10
-tagGDX1CompA108Desc="为了奥祖因的荣耀而创造的印章，燃烧将毁灭那些藐视天神之人。"^w^n(用于所有类型的武器，盾牌和副手法器)
+tagGDX1CompA108Desc="为了奥祖因的荣耀而创造的印章，那些藐视天神之人将在燃烧中毁灭。"^w^n(用于所有类型的武器，盾牌和副手法器)
 
 tagGDX1CompA109Name=^w暗影之印 ^sb9
-tagGDX1CompA109Desc="夜刃尼达拉的最爱，能将刺骨的酸性注入武器。"^w^n(用于所有类型的武器，盾牌和副手法器)
+tagGDX1CompA109Desc="夜刃尼达拉的最爱，能将刺骨毒酸注入武器。"^w^n(用于所有类型的武器，盾牌和副手法器)
 
 tagGDX1CompA110Name=^w共鸣之印 ^sb2
 tagGDX1CompA110Desc="按照光明会精确的标准制成，这枚印章可以强化武器的魔法属性，甚至不精通奥术的人也可使用。"^w^n(用于所有类型的武器，盾牌和副手法器)
@@ -1523,17 +1531,17 @@ tagGDX1CompA113Desc="刻在宝石侧面的符文可以强化防护性能。"^w^n
 tagGDX1CompA114Name=^w血腥水晶 ^sb20
 tagGDX1CompA114Desc="曾经白如珍珠的水晶吸收了无数杀戮的鲜血。"^w^n(用于戒指，项链和勋章)
 
-tagGDX1CompA115Name=^w魔法大地 ^sb22
-tagGDX1CompA115Desc="充满大地的生命精华能促进健康生长。"^w^n(用于所有护甲)
+tagGDX1CompA115Name=^w魔法之土 ^sb22
+tagGDX1CompA115Desc="泥土中被注入了生命精华以促发生机。"^w^n(用于所有护甲)
 
 tagGDX1CompA116Name=^w魔法焚烧铠甲片 ^sb23
-tagGDX1CompA116Desc="破碎的铠甲片吸收了致命奥数攻击的魔法能量。"^w^n(用于所有护甲)
+tagGDX1CompA116Desc="破碎的铠甲片吸收了致命奥术攻击的魔法能量。"^w^n(用于所有护甲)
 
 tagGDX1CompA117Name=^w刀刃铠甲片 ^sb4
-tagGDX1CompA117Desc="铠甲上装满了成排的致命刀刃。是强盗和残酷暴君的最爱。"^w^n(用于所有护甲)
+tagGDX1CompA117Desc="铠甲上装满了成排的致命刀刃.是强盗和残酷暴君的最爱。"^w^n(用于所有护甲)
 
 tagGDX1CompA118Name=^w巫登沼泽皮革 ^sb8
-tagGDX1CompA118Desc="来自巫登沼泽野兽的皮革。致命的沼泽创造了凯恩世界最强韧的野兽。"^w^n(用于所有护甲)
+tagGDX1CompA118Desc="来自巫登沼泽野兽的皮革.致命的沼泽创造了凯恩世界最强韧的野兽。"^w^n(用于所有护甲)
 
 
 tagGDX1CompB101Name=^w神圣铠甲片 ^sb16
@@ -1566,7 +1574,7 @@ tagGDX1BoosterPM_B01=马尔茅斯人民的委任状
 
 tagGDX1BoosterAetherialVanguard_C01=虚灵先锋通缉令
 tagGDX1BoosterWendigo_C01=巴罗霍尔姆通缉令
-tagGDX1BoosterBeast_C01=野兽 "通缉令"
+tagGDX1BoosterBeast_C01=野兽"通缉令"
 tagGDX1BoosterBeastDesc=这很明显是格罗布“写”的，字里行间充满怒气而且你很确定这潦草画像中的人物就是你。
 
 #Misc
@@ -1579,14 +1587,14 @@ tagGDX1BoosterBeastDesc=这很明显是格罗布“写”的，字里行间充�
 #Attributes
 tagAttributeReset={^E}使用来重置你的属性
 tagAttributeNoPointsUsed={^r}[没有属性点可以重置]
-tagAttributeResetConfirmation=重置你所有的属性？
+tagAttributeResetConfirmation=重置你所有的属性?
 
 #ItemSets
 tagGDX1ItemSetC018CName=阿卡莫斯的痛苦
 
 tagGDX1ItemSetC101Name=精神腐蚀者
 tagGDX1ItemSetC101BName=灵魂腐蚀者
-tagGDX1ItemSetC101Desc="灵魂屈服于你的意志。"
+tagGDX1ItemSetC101Desc="灵魂屈服于你的意志."
 
 tagGDX1ItemSetC102Name=银色守护者
 tagGDX1ItemSetC102BName=银色哨兵
@@ -1625,7 +1633,7 @@ tagGDX1ItemSetD102Name=自然复仇者
 tagGDX1ItemSetD102Desc="莫格卓根祝福的铠甲，被自然捍卫者所穿。"
 
 tagGDX1ItemSetD103Name=迷失灵魂的牧羊人
-tagGDX1ItemSetD103Desc="面纱上隐藏着巨大的力量。学会掌握它，死亡本身只不过是一种消遣。- 尤若布鲁克。"
+tagGDX1ItemSetD103Desc="面纱上隐藏着巨大的力量。学会掌握它，死亡本身只不过是一种消遣.- 尤若布鲁克。"
 
 tagGDX1ItemSetD104Name=奥克塔维尔斯的狂热
 tagGDX1ItemSetD104Desc="奥克塔维尔斯·加拉达尔一直是光明会中最功勋卓著的猎魔者。他作为光明会大本营的战士长战斗至最后一息。"
@@ -1637,13 +1645,13 @@ tagGDX1ItemSetD106Name=岩石守卫
 tagGDX1ItemSetD106Desc="岩石守卫的装备，曼海尔信仰的忠诚守护者。"
 
 tagGDX1ItemSetD107Name=军团之要塞
-tagGDX1ItemSetD107Desc="帕里奥纳·达尔的装备，黑色军团的持盾少女。"
+tagGDX1ItemSetD107Desc="黑色军团的持盾少女，帕里奥纳·达尔的装备。"
 
 tagGDX1ItemSetD108Name=戈尔巴的愤怒
 tagGDX1ItemSetD108Desc="戈尔巴的铠甲，罗斯纳尔的野蛮女儿，绰号白狼毒牙。"
 
 tagGDX1ItemSetD109Name=黑火装束
-tagGDX1ItemSetD109Desc="女巫之神索拉尔制作的装备，在三巫神之战期间赐予他的仆从。"
+tagGDX1ItemSetD109Desc="巫神索拉尔制作的装备，在三巫神之战期间赐予他的仆从。"
 
 tagGDX1ItemSetD110Name=法术天灾
 tagGDX1ItemSetD110Desc="战斗与奥术技艺之间难以置信的结合，用符文印刻在这铠甲之上。"
@@ -1652,7 +1660,7 @@ tagGDX1ItemSetD111Name=法师杀手
 tagGDX1ItemSetD111Desc="法师杀手的铠甲，一小群光明会成员经过夜刃的特训，目的是消灭帝国内的邪恶施法者。"
 
 tagGDX1ItemSetD112Name=瓦尔古尔的饥渴
-tagGDX1ItemSetD112Desc="被诅咒的瓦尔古尔对生命有着无尽的饥渴，但也受到了掠夺者·温迪戈灵魂的祝福。"
+tagGDX1ItemSetD112Desc="被诅咒的瓦尔古尔对生命有着无尽的饥渴 ，但也受到了掠夺者·温迪戈灵魂的祝福。"
 
 tagGDX1ItemSetD113Name=符文束缚者
 tagGDX1ItemSetD113Desc="符文束缚者泰利尔斯的守护铠甲，光明会宝库最初的守护者。"
@@ -1768,19 +1776,19 @@ tagGDX1SuffixA101=之
 
 tagGDX1SuffixB101_Wpn_A=^g·受折磨灵魂
 tagGDX1SuffixB102_Wpn_A=^g·灵魂守护
-tagGDX1SuffixB103_Wpn_A=^g·焚烧符文★
-tagGDX1SuffixB104_Wpn_A=^g·灵魂牢笼
+tagGDX1SuffixB103_Wpn_A=^g·焚烧符文☆
+tagGDX1SuffixB104_Wpn_A=^g·灵魂牢笼☆
 tagGDX1SuffixB105_Wpn_A=^g·天神愤怒
 
 tagGDX1SuffixB101_Ar_A=^g·受折磨灵魂
 tagGDX1SuffixB102_Ar_A=^g·受折磨灵魂
 tagGDX1SuffixB103_Ar_A=^g·灵魂守护
-tagGDX1SuffixB104_Ar_A=^g·焚烧符文★
+tagGDX1SuffixB104_Ar_A=^g·焚烧符文
 tagGDX1SuffixB105_Ar_A=^g·灵魂牢笼
 tagGDX1SuffixB106_Ar_A=^g·灵魂牢笼
 
 tagGDX1SuffixB101_Sh_A=^g·受折磨灵魂
-tagGDX1SuffixB102_Sh_A=^g·焚烧符文★
+tagGDX1SuffixB102_Sh_A=^g·焚烧符文
 tagGDX1SuffixB103_Sh_A=^g·灵魂牢笼
 tagGDX1SuffixB104_Sh_A=^g·天神愤怒
 tagGDX1SuffixB105_Sh_A=^g·虚灵屏障
@@ -1878,11 +1886,11 @@ tagGDX1Door_Vine=藤蔓
 tagGDX1Door_Flesh=活体血肉之门
 tagGDX1Door_Puppetmaster=活体血肉之门
 
-
 #DLC
 tagGDX1DLCIllusionA01=幻化：暗黑骑士盔甲
 tagGDX1DLCA01=暗黑骑士盔甲
 tagGDX1DLCA01Desc="邪恶的暗黑骑士盔甲。"
+
 
 tagGDX1DLCIllusionA02=幻化：白银骑士盔甲
 tagGDX1DLCA02=白银骑士盔甲
@@ -1894,7 +1902,7 @@ tagGDX1DLCA03Desc="尊崇龙将军收藏品。"
 
 tagGDX1DLCIllusionA04=幻化：白巫师
 tagGDX1DLCA04=白巫师华服
-tagGDX1DLCA04Desc="神秘白巫师的华服。"
+tagGDX1DLCA04Desc="神秘的白巫师华服。"
 
 tagGDX1DLCIllusionA05=幻化：黑巫师
 tagGDX1DLCA05=黑巫师华服
@@ -1912,5 +1920,3 @@ tagGDX1DLCIllusionShouldersInvisibleDesc="100％的保护和0％的重量。 而
 
 tagGDX1DLCIllusionMedalInvisible=隐形勋章
 tagGDX1DLCIllusionMedalInvisibleDesc="100%的表彰却没有别针。而且不含乳制品。"
-
-

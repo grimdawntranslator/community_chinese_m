@@ -788,7 +788,7 @@ tagCharStatsLightRadiusBonus=照亮范围奖励
 tagCharStatsLightRadiusBonusInfo=照亮范围额外的百分数。
 tagCharStatsAllSkillsBonus=^y所有技能加成
 tagCharStatsAllSkillsBonusInfo=所有已习得技能的额外加成
-tagCharStatsSoldierSkillsBonus=战士技能加成
+tagCharStatsSoldierSkillsBonus=士兵技能加成
 tagCharStatsSoldierSkillsBonusInfo=所有士兵专精中已习得技能的额外加成。
 tagCharStatsDemoSkillsBonus=爆破者技能加成
 tagCharStatsDemoSkillsBonusInfo=所有爆破者专精中已习得技能的额外加成。
@@ -1036,7 +1036,7 @@ tagCharStatsSlowResist=^p减速效果抗性
 tagCharStatsSlowResistInfo=对所有能减缓你攻击、施法和移动能力的法术的抗性。
 
 #Retaliation反击
-tagCharStatsDamageReflect=反击伤害
+tagCharStatsDamageReflect=伤害反弹
 tagCharStatsDamageReflectInfo=你所受到的伤害会被反馈给攻击者的比率。
 
 tagCharStatsCurrentLifeReflect=生命反击
@@ -1184,7 +1184,7 @@ tagVendorRolloverDescription=这些商人向敢于离开人类据点出去冒险
 
 MarketCostAffordable={^g}花费 {%d0}
 MarketCostTooExpensive={^r}花费 {%d0} ~ 铁币不足
-MarketCostReputationTooLow={^r}花费 {%d0} ~ 声望不足
+MarketCostReputationTooLow={^r}花费  {%d0} ~ 声望不足
 MarketCostPreviousTransaction={^g}花费 {%d0} ~ 原价
 MarketCostPreviousTransactionTooExpensive={^r}花费 {%d0} ~ 铁币不足
 MarketValue={^g}售出价格 {%d0}
@@ -2260,7 +2260,7 @@ tagHeroXPShort={%d0} 点英雄经验值
 tagBossXPShort={%d0} 点头领经验值
 tagBossXPLong01=击杀头领怪物
 tagBossXPLong02=获得 {%d0} 点经验值
-tagHeroXPLong01=击英雄怪物杀
+tagHeroXPLong01=击杀英雄怪物
 tagHeroXPLong02=获得 {%d0} 点经验值
 
 tagPetBonusNameAllPets=所有战宠加成

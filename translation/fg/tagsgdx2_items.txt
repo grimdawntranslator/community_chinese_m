@@ -1,4 +1,4 @@
-﻿#Weapons
+#Weapons
 tagGDX2WeaponSwordB201=^l寇瓦克的烈焰剑
 tagGDX2WeaponSwordB201_Desc="由寇瓦克授予其忠实信徒的武器，用于号令其爪牙。"
 tagGDX2WeaponSwordB202=^l寇瓦克的风暴剑
@@ -187,8 +187,6 @@ tagGDX2ShieldB203=^l巨像防御者
 tagGDX2ShieldB204=^l血肉扭曲护盾
 tagGDX2ShieldB205=^l黑曜石防御盾
 tagGDX2ShieldB206=^l冷血的尸体
-
-tagShieldC015B=角斗士
 
 tagGDX2ShieldC201=风暴守卫
 tagGDX2ShieldC201_Desc="充满了从强大的雷暴中捕获的能量。"
@@ -416,7 +414,7 @@ tagGDX2TorsoD215=皮兰的法衣
 tagGDX2TorsoD216=塔戈的胸甲
 tagGDX2TorsoD217=虚魂护甲
 tagGDX2TorsoD218=腐魔胸甲
-tagGDX2TorsoD219=☆摩根尼斯的黑暗之心^r(Morgonneth's Black Heart)
+tagGDX2TorsoD219=☆摩根尼斯的黑暗之心^r(Morgoneth's Black Heart)
 tagGDX2TorsoD220=碎境仪式护甲
 tagGDX2TorsoD221=帷幕守卫的护甲
 tagGDX2TorsoD222=污血饮者的护甲
@@ -475,14 +473,14 @@ tagGDX2LegsD204=☆摩根尼斯的腿甲^r(Morgoneth's Lagplates)
 
 #ArmorFeet
 tagGDX2FeetC201=图林的步伐
-tagGDX2FeetC201_Desc="圣像堡破盾者图林的手甲，这名战士陨落于侍奉至高神之路上。"
-tagGDX2FeetC202=裂隙护腿
-tagGDX2FeetC203=蔑视护腿
+tagGDX2FeetC201_Desc="穿着这双战靴的圣像堡破盾者图林，他的脚步最后一次为侍奉至高神而踏出。"
+tagGDX2FeetC202=裂隙护胫
+tagGDX2FeetC203=蔑视护胫
 
 tagGDX2FeetD201=原始狂怒之靴
 tagGDX2FeetD202=读石者
-tagGDX2FeetD203=阿马托克之踏
-tagGDX2FeetD203_Desc="当阿马托克之星在寒夜中显现时，这双靴子在寒冷的高峰上受到了祝福。"
+tagGDX2FeetD203=阿玛托克之踏
+tagGDX2FeetD203_Desc="当阿玛托克之星在寒夜中显现时，这双靴子在寒冷的高峰上受到了祝福。"
 tagGDX2FeetD204=死亡行者之恩典
 tagGDX2FeetD205=☆摩根尼斯之步^r(Morgoneth's Step)
 
@@ -524,14 +522,14 @@ tagGDX2RingB201=^l爬行戒指
 
 tagGDX2RingC201=血红荆棘指环
 tagGDX2RingC202=纱幕守望指环
-tagGDX2RingC203=☆赛瑟瑞斯的印戒(Seal of Sethris)①
+tagGDX2RingC203=☆赛瑟瑞斯的印戒(Seal of Sethris)-1
 tagGDX2RingC203_Desc="科凡法师七印戒之一。用来纪念他们在科凡人民中地位的小饰品。"
-tagGDX2RingC204=☆奥利西亚的印戒(Seal of Orissia)②
-tagGDX2RingC205=☆阿努巴的印戒(Seal of Anubar)③
-tagGDX2RingC206=☆塔罗特的印戒(Seal of Tawrot)④
-tagGDX2RingC207=☆巴斯蒂的印戒(Seal of Basti)⑤
-tagGDX2RingC208=☆舒罗斯的印戒(Seal of Shuroth)⑥
-tagGDX2RingC209=☆孔萨尔的印戒(Seal Khonsar)⑦
+tagGDX2RingC204=☆奥利西亚的印戒(Seal of Orissia)-2
+tagGDX2RingC205=☆阿努巴的印戒(Seal of Anubar)-3
+tagGDX2RingC206=☆塔罗特的印戒(Seal of Tawrot)-4
+tagGDX2RingC207=☆巴斯蒂的印戒(Seal of Basti)-5
+tagGDX2RingC208=☆舒罗斯的印戒(Seal of Shuroth)-6
+tagGDX2RingC209=☆孔萨尔的印戒(Seal Khonsar)-7
 
 tagGDX2RingD201=曼海尔的印记
 tagGDX2RingD201_Desc="曼海尔神殿的印记，授予其最忠诚狂热的追随者。"
@@ -542,14 +540,14 @@ tagGDX2RingD204=永恒圣火指环
 tagGDX2RingD205=风暴女巫铭文
 tagGDX2RingD206=拜斯迈之权威
 tagGDX2RingD207=拜斯迈之权势
-tagGDX2RingD208=☆赛瑟瑞斯的指环^r(Ring of Sethris)①
+tagGDX2RingD208=☆赛瑟瑞斯的指环^r(Ring of Sethris)-1
 tagGDX2RingD208_Desc="科凡法师七指环之一。由于它的力量，法师们被束缚在黑暗中。"
-tagGDX2RingD209=☆奥利西亚的指环^r(Ring of Orissia)②
-tagGDX2RingD210=☆阿努巴的指环^r(Ring of Anubar)③
-tagGDX2RingD211=☆塔罗特的指环^r(Ring of Tawrot)④
-tagGDX2RingD212=☆巴斯蒂的指环^r(Ring of Basti)⑤
-tagGDX2RingD213=☆舒罗斯的指环^r(Ring of Shuroth)⑥
-tagGDX2RingD214=☆孔萨尔的指环^r(Ring of Khonsar)⑦
+tagGDX2RingD209=☆奥利西亚的指环^r(Ring of Orissia)-2
+tagGDX2RingD210=☆阿努巴的指环^r(Ring of Anubar)-3
+tagGDX2RingD211=☆塔罗特的指环^r(Ring of Tawrot)-4
+tagGDX2RingD212=☆巴斯蒂的指环^r(Ring of Basti)-5
+tagGDX2RingD213=☆舒罗斯的指环^r(Ring of Shuroth)-6
+tagGDX2RingD214=☆孔萨尔的指环^r(Ring of Khonsar)-7
 tagGDX2RingD215=☆摩根尼斯的主戒^r(Prime Ring of Morgoneth)
 tagGDX2RingD215_Desc="大法师摩根尼斯的戒指向你传来诅咒的低语。通过这枚戒指，被摩根尼斯控制的法师将听命于你的号令。"
 
@@ -755,7 +753,7 @@ tagGDX2Blueprint_RuneC225=设计图：阴影巨人铭文
 tagGDX2Blueprint_RuneC226=设计图：蝎尾铭文
 tagGDX2Blueprint_RuneC227=设计图：不羁之魂铭文
 
-tagGDX2Blueprint_RuneD201=设计图：阿马托克之息符文
+tagGDX2Blueprint_RuneD201=设计图：阿玛托克之息符文
 tagGDX2Blueprint_RuneD202=设计图：陨落之王符文
 tagGDX2Blueprint_RuneD203=设计图：暴力之悦符文
 tagGDX2Blueprint_RuneD204=设计图：奥祖因之落符文
@@ -823,14 +821,14 @@ tagGDX2CraftMaterial_Eldritch_Desc="从这粘稠的东西中滴落着来自邪�
 tagGDX2CraftMaterial_Lotus=天界莲花
 tagGDX2CraftMaterial_Lotus_Desc="一种仅在科凡高原和其中的神秘遗迹中发现的花。人们相信那些花曾经受到众神星光的照耀，而且还是好运气的象征。"
 
-tagGDX2CraftMaterial_Sacrifice=天界精华
+tagGDX2CraftMaterial_Sacrifice=天神精华
 tagGDX2CraftMaterial_Sacrifice_Desc="现实，或者说存在本身的精华。或许可用于某个用途可疑合适地点的强大仪式。"
 
 tagGDX2CraftMaterial_IronExchange_01=铁锭
-tagGDX2CraftMaterial_IronExchange_01_Desc=在一个被死亡蹂躏的世界中珍贵的资源。^w^n^n三巫神秘会处的钢铁保管者盖拉斯会很乐意用50000铁币来交换它。
+tagGDX2CraftMaterial_IronExchange_01_Desc=在一个被死亡蹂躏的世界中珍贵的资源。^w^n^n三巫神密会处的钢铁保管者盖拉斯会很乐意用50000铁币来交换它。
 
 tagGDX2CraftMaterial_IronExchange_02=高级铁锭堆
-tagGDX2CraftMaterial_IronExchange_02_Desc=在一个被死亡蹂躏的世界中珍贵的资源。^w^n^n三巫神秘会处的钢铁保管者盖拉斯会很乐意用500000铁币来交换它。
+tagGDX2CraftMaterial_IronExchange_02_Desc=在一个被死亡蹂躏的世界中珍贵的资源。^w^n^n三巫神密会处的钢铁保管者盖拉斯会很乐意用500000铁币来交换它。
 
 #Consumables
 tagGDX2Consumable_01=神秘球体
@@ -1011,10 +1009,10 @@ tagGDX2EnchantB225A=索拉尔的眩光
 tagGDX2EnchantB225Desc="一件来自巫神索拉尔的馈赠， 注入了邪术烈焰意志的精华。"^w^n（用于全部单手武器，盾牌，以及副手法器）
 
 tagGDX2EnchantB226A=强效索拉尔的眩光
-tagGDX2EnchantB226Desc="一件来自巫神索拉尔的馈赠，注入了邪术烈焰意志的精华。"^w^n（用于全部双手武器）
+tagGDX2EnchantB226Desc="一件来自巫神索拉尔的馈赠, 注入了邪术烈焰意志的精华。"^w^n（用于全部双手武器）
 
 tagGDX2EnchantB227A=伊拉的灵魂火
-tagGDX2EnchantB227Desc="这些上好的魔法粉末是从伊拉神庙中的圣火灰烬中获得的，祭祀牺牲者的灵魂碎片依旧附着其上久久不散。"^w^n（用于戒指和护符）
+tagGDX2EnchantB227Desc="这些上好的魔法粉末是从伊拉神庙中的圣火灰烬中获得的, 祭祀牺牲者的灵魂碎片依旧附着其上久久不散。"^w^n（用于戒指和护符）
 
 tagGDX2EnchantB228A=伊拉的耐心
 tagGDX2EnchantB228Desc="这些上好的魔法粉末是从伊拉神庙中的圣火灰烬中获得的，可以让持有者充满不自然的镇定。"^w^n（用于戒指和护符）
@@ -1026,13 +1024,13 @@ tagGDX2EnchantB230A=伊拉之血
 tagGDX2EnchantB230Desc="这些上好的魔法粉末是从伊拉神庙中的圣火灰烬中获得的，据说其中渗入了天神的血。"^w^n（用于戒指和护符）
 
 tagGDX2EnchantC201A=拜斯迈的银沙
-tagGDX2EnchantC201Desc="一件来自巫神拜斯迈的馈赠，这些品质极佳的银粉通常用于幻象，但是也是很不错的护符素材。"^w^n（用于全部护甲）
+tagGDX2EnchantC201Desc="一件来自巫神拜斯迈的馈赠, 这些品质极佳的银粉通常用于幻象，但是也是很不错的护符素材。"^w^n（用于全部护甲）
 
 tagGDX2EnchantC202A=拜斯迈的沙语
-tagGDX2EnchantC202Desc="一件来自巫神拜斯迈的馈赠，诡计之神的死亡之吻附在了这些注入了魔力的粉末中。"^w^n（用于全部护甲）
+tagGDX2EnchantC202Desc="一件来自巫神拜斯迈的馈赠, 诡计之神的死亡之吻附在了这些注入了魔力的粉末中。"^w^n（用于全部护甲）
 
 tagGDX2EnchantC203A=拜斯迈的帷幕之触
-tagGDX2EnchantC203Desc="一件来自巫神拜斯迈的馈赠，这种粉末以魔力连接着分隔生与死的帷幕。"^w^n（用于全部护甲）
+tagGDX2EnchantC203Desc="一件来自巫神拜斯迈的馈赠, 这种粉末以魔力连接着分隔生与死的帷幕。"^w^n（用于全部护甲）
 
 tagGDX2EnchantC204A=德里格的预知
 tagGDX2EnchantC204Desc="一件来自巫神德里格的馈赠，可以让持有者得以短暂窥见未来的一角。"^w^n（用于全部护甲）
@@ -1041,16 +1039,16 @@ tagGDX2EnchantC205A=德里格的帷幕守护
 tagGDX2EnchantC205Desc="一件来自巫神德里格的馈赠，用于抵御宏伟守卫对其追随者施加的能扭曲心灵的幻象。"^w^n（用于全部护甲）
 
 tagGDX2EnchantC206A=德里格的恶魔血
-tagGDX2EnchantC206Desc="一件来自巫神德里格的馈赠，这是从邪术领域大门前被宏伟守卫碾碎的冥煞恶魔身上抽取的。"^w^n（用于全部护甲）
+tagGDX2EnchantC206Desc="一件来自巫神德里格的馈赠, 这是从邪术领域大门前被宏伟守卫碾碎的冥煞恶魔身上抽取的。"^w^n（用于全部护甲）
 
 tagGDX2EnchantC207A=索拉尔的缚血尘
-tagGDX2EnchantC207Desc="一件来自巫神索拉尔的馈赠，这种邪秽的粉末用于索拉尔的契约签订仪式。"^w^n（用于全部护甲）
+tagGDX2EnchantC207Desc="一件来自巫神索拉尔的馈赠, 这种邪秽的粉末用于索拉尔的契约签订仪式。"^w^n（用于全部护甲）
 
 tagGDX2EnchantC208A=索拉尔的虚空守护
 tagGDX2EnchantC208Desc="一件来自巫神索拉尔的馈赠，用于抵御虚空的破坏力，以此，邪术之火才可以畅通无阻地研究虚空的奥秘。"^w^n（用于全部护甲）
 
 tagGDX2EnchantC209A=索拉尔的缚魂尘
-tagGDX2EnchantC209Desc="一件来自巫神索拉尔的馈赠，这种邪恶的粉末用于灵魂绑定仪式，为邪术之火提供食粮。"^w^n（用于全部护甲）
+tagGDX2EnchantC209Desc="一件来自巫神索拉尔的馈赠, 这种邪恶的粉末用于灵魂绑定仪式，为邪术之火提供食粮。"^w^n（用于全部护甲）
 
 #Mobility Runes
 tagGDX2RuneBDesc="由巫神秘教使用的普通魔法符文。"^w^n(用于勋章)
@@ -1092,7 +1090,7 @@ tagGDX2RuneC225=阴影巨人铭文
 tagGDX2RuneC226=蝎尾铭文
 tagGDX2RuneC227=不羁之魂铭文
 
-tagGDX2RuneD201=阿马托克之息符文
+tagGDX2RuneD201=阿玛托克之息符文
 tagGDX2RuneD202=陨落之王符文
 tagGDX2RuneD203=暴力之悦符文
 tagGDX2RuneD204=奥祖因之落符文
@@ -1156,7 +1154,7 @@ tagGDX2ItemSetC205Name=石父
 tagGDX2ItemSetC205Desc="坚定不移的曼海尔卫士石父所穿的盔甲。"
 
 tagGDX2ItemSetD201Name=破碎守卫
-tagGDX2ItemSetD201Desc="一个被黑暗吞没之地的守卫，无人守护，无人守护。"
+tagGDX2ItemSetD201Desc="守卫着失去庇佑的黑暗吞没之地。"
 
 tagGDX2ItemSetD202Name=征服者
 tagGDX2ItemSetD202Desc="征服禁区者，击败一切敌人。"
@@ -1189,7 +1187,7 @@ tagGDX2ItemSetD211Name=枯萎领主
 tagGDX2ItemSetD211Desc="没人知道枯萎领主的真实身份，人们只知道他犯下的罪行。最终当他被抓获时，他的脸早已因疾病和腐烂而变得扭曲不堪，没人能认出他来。"
 
 tagGDX2ItemSetD212Name=高尔的恶意
-tagGDX2ItemSetD212Desc="高尔是个粗鲁但十分聪明的家伙；这种珍贵的属性吸引了低语女士的注意，并让高尔得到了她的祝福。"
+tagGDX2ItemSetD212Desc="高尔是个粗鲁但十分聪明的家伙; 这种珍贵的属性吸引了低语女士的注意，并让高尔得到了她的祝福。"
 
 tagGDX2ItemSetD213Name=拜斯迈的饰品
 tagGDX2ItemSetD213Desc="曾经她身为凡人之时，低语女士就以收集威力强大的物品来控制孱弱生物闻名于世。在她成神之后，便不再需要这些琐碎的装饰品了。"
@@ -1264,7 +1262,6 @@ tagGDX2DoorLocked_Korvaak= {^R} ~ 被强大的守卫封印着
 tagGDX2DoorLocked_Roguelike= {^R} ~ 被强大的符文封印着
 
 
-
 #Breakables
 tagGDX2Quest_BindingConduit_01=束缚管道
 tagGDX2Crate=不起眼的板条箱
@@ -1305,7 +1302,7 @@ tagGDX2Door_PortcullisGold=黄金闸门
 tagGDX2Door_Lava=熔岩路障
 tagGDX2EldritchRift=邪术裂隙
 tagGDX2TombOfHereticDoor=浮现的黑暗
-tagGDX2TombOfHereticSeal=异教徒的封印
+tagGDX2TombOfHereticSeal=异端的封印
 
 tagGDX2DoorOneWayTombOfHeretic=黑夜逃脱口
 tagGDX2EpicDoor_TombOfHeretic=摩根尼斯之愚的封印

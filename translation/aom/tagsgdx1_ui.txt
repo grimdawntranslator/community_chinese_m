@@ -79,7 +79,7 @@ tagMapSymbolTransmuteNpcDesc=亦真亦幻的幻觉。
 
 #Char Stats Tab 2
 tagCharStatsInquisitorSkillsBonus=审判官技能加成
-tagCharStatsInquisitorSkillsBonusInfo==所有审判官专精中已习得技能的额外加成。
+tagCharStatsInquisitorSkillsBonusInfo=所有审判官专精中已习得技能的额外加成。
 tagCharStatsNecroSkillsBonus=死灵法师技能加成
 tagCharStatsNecroSkillsBonusInfo=所有死灵法师专精中已习得技能的额外加成。
 
